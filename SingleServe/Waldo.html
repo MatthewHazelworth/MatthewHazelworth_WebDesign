@@ -2,7 +2,7 @@
 <html>
 	<head>
 	<title>Where's Waldo?</title>
-	
+	<img src="images/bg.jpg" id="bg" alt="">
 	<style>
 	h1
 	{
@@ -12,7 +12,7 @@
 	{
 		width: 900px;
 		height: 750px;
-		margin: 10px 0px 0px 320px;
+		margin: 250px 0px 0px 380px;
 		border: 10px solid red;
 		background-image: url("https://images-na.ssl-images-amazon.com/images/I/81yB37pUjGL._SL1058_.jpg");
 	}
@@ -21,7 +21,7 @@
 		float: left;
 		width: 150px;
 		height: 150px;
-		background-color: SkyBlue;
+		background-color: DeepSkyBlue;
 		font-size:50px;
 		text-align:center;
 		display: table-cell;
@@ -37,7 +37,7 @@
 		float: left;
 		width: 150px;
 		height: 150px;
-		background-color: SkyBlue;
+		background-color: DeepSkyBlue;
 		font-size:50px;
 		text-align:center;
 		display: table-cell;
@@ -53,7 +53,7 @@
 		float: left;
 		width: 150px;
 		height: 150px;
-		background-color: SkyBlue;
+		background-color: DeepSkyBlue;
 		font-size:50px;
 		text-align:center;
 		display: table-cell;
@@ -69,7 +69,7 @@
 		float: left;
 		width: 150px;
 		height: 150px;
-		background-color: SkyBlue;
+		background-color: DeepSkyBlue;
 		font-size:50px;
 		text-align:center;
 		display: table-cell;
@@ -85,7 +85,7 @@
 		float: left;
 		width: 150px;
 		height: 150px;
-		background-color: SkyBlue;
+		background-color: DeepSkyBlue;
 		font-size:50px;
 		text-align:center;
 		display: table-cell;
@@ -96,16 +96,49 @@
 	{
 		opacity: 0;
 	}
+	
+	
+	.text
+	{
+		float: left;
+		margin: 400px 0px 0px 20px;
+		padding: 0px 0px 0px 0px;
+		background-color: DeepSkyBlue;
+		text-align: center;
+		border: 10px solid red;
+		opacity: 0;
+		
+	}
+	
+	p
+	{
+		font-size: 70px;
+		color: white;
+		font-family: Spirax;
+		text-transform: uppercase;
+		font-weight: bold;
+		opacity: 0;
+	}
+	
 	body
 	{
 		background-image: url("https://images-na.ssl-images-amazon.com/images/I/91lwAxXNFvL.jpg");
+		background-size: cover;
 	}
 	
 	
 	</style>
+	
+	<link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
+	
 	</head>
 	
 	<body>
+			<div class="text" id>
+				<p id="win" >you</p>
+				<p id="win" >found</p>
+				<p id="win" >him!</p>
+			</div>
 		
 		<div class="background">
 			<div class="white1"></div>
@@ -122,7 +155,7 @@
 		<div class="white4"></div>
 		<div class="white1"></div>
 		<div class="white2"></div>
-		<div class="waldo"></div>
+		<div class="waldo" onclick="Winner()"></div>
 		<div class="white4"></div>
 		<div class="white1"></div>
 		<div class="white2"></div>
@@ -142,7 +175,12 @@
 		</div>
 	
 		
-
+	<script>
+		function Winner()
+	{
+		document.getElementById("win").style.opacity = "1";
+	}
+	</script>
 	
 	</body>
 </html>
