@@ -102,12 +102,42 @@
 		background-image: url("https://images-na.ssl-images-amazon.com/images/I/91lwAxXNFvL.jpg");
 		background-size: cover;
 	}
+	#win
+	{
+		width:350px;
+		height: 450px;
+		margin: 200px 0px 0px 0px;
+		background-color: SkyBlue;
+		display: none;
+		position: absolute;
+		border: 10px solid red;
+	
+	}
+	p
+	{
+		font-size: 80px;
+		color: white;
+		margin: 10px 0px 5px 0px;
+		padding: 10px 0px 0px 0px;
+		font-family: Spirax;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
 	
 	
 	</style>
+	
+	<link href="https://fonts.googleapis.com/css?family=Cabin+Sketch|Chewy|Fugaz+One|Spirax" rel="stylesheet">
+	
 	</head>
 	
 	<body>
+		<div id="win">
+			<p>you</p>
+			<p>found</p>
+			<p>him!</p>
+		</div>
 		
 		<div class="background">
 			<div class="white1"></div>
@@ -124,7 +154,7 @@
 		<div class="white4"></div>
 		<div class="white1"></div>
 		<div class="white2"></div>
-		<div class="waldo"></div>
+		<div class="waldo" onclick="waldo()"></div>
 		<div class="white4"></div>
 		<div class="white1"></div>
 		<div class="white2"></div>
@@ -142,9 +172,12 @@
 		<div class="white2"></div>
 		
 		</div>
-	
-		
-
+	<script>
+		function waldo()
+		{
+			document.getElementById("win").style.display = "block";
+		}
+	</script>
 	
 	</body>
 </html>
