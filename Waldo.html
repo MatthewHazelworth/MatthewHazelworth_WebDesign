@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Where's Waldo?</title>
+	
+	<style>
+	h1
+	{
+		color: blue;
+	}
+	.background
+	{
+		width: 900px;
+		height: 750px;
+		margin: 300px 0px 0px 380px;
+		border: 10px solid red;
+		background-image: url("https://images-na.ssl-images-amazon.com/images/I/81yB37pUjGL._SL1058_.jpg");
+		background-size: cover;
+		
+	}
+	.white1 
+	{
+		float: left;
+		width: 150px;
+		height: 150px;
+		background-color: SkyBlue;
+		font-size:50px;
+		text-align:center;
+		display: table-cell;
+		vertical-align:middle;
+		transition: all .1s ease;
+	}
+	.white1:hover
+	{
+		opacity: 0;
+	}
+	.white2 
+	{
+		float: left;
+		width: 150px;
+		height: 150px;
+		background-color: SkyBlue;
+		font-size:50px;
+		text-align:center;
+		display: table-cell;
+		vertical-align:middle;
+		transition: all .1s ease;
+	}
+	.white2:hover
+	{
+		opacity: 0;
+	}
+	.white3 
+	{
+		float: left;
+		width: 150px;
+		height: 150px;
+		background-color: SkyBlue;
+		font-size:50px;
+		text-align:center;
+		display: table-cell;
+		vertical-align:middle;
+		transition: all .1s ease;
+	}
+	.white3:hover
+	{
+		opacity: 0;
+	}
+	.white4 
+	{
+		float: left;
+		width: 150px;
+		height: 150px;
+		background-color: SkyBlue;
+		font-size:50px;
+		text-align:center;
+		display: table-cell;
+		vertical-align:middle;
+		transition: all .2s ease;
+	}
+	.white4:hover
+	{
+		opacity: 0;
+	}
+	.waldo
+	{
+		float: left;
+		width: 150px;
+		height: 150px;
+		background-color: SkyBlue;
+		font-size:50px;
+		text-align:center;
+		display: table-cell;
+		vertical-align:middle;
+		transition: all .2s ease;
+	}
+	.waldo:hover
+	{
+		opacity: 0;
+	}
+	body
+	{
+		background-image: url("https://images-na.ssl-images-amazon.com/images/I/91lwAxXNFvL.jpg");
+		background-size: cover;
+	}
+	#win
+	{
+		width:350px;
+		height: 450px;
+		margin: 200px 0px 0px 0px;
+		background-color: SkyBlue;
+		display: none;
+		position: absolute;
+		border: 10px solid red;
+	
+	}
+	p
+	{
+		font-size: 80px;
+		color: white;
+		margin: 10px 0px 5px 0px;
+		padding: 10px 0px 0px 0px;
+		font-family: Spirax;
+		text-align: center;
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+	
+	
+	</style>
+	
+	<link href="https://fonts.googleapis.com/css?family=Cabin+Sketch|Chewy|Fugaz+One|Spirax" rel="stylesheet">
+	
+	</head>
+	
+	<body>
+		<div id="win">
+			<p>you</p>
+			<p>found</p>
+			<p>him!</p>
+		</div>
+		
+		<div class="background">
+			<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="waldo" onclick="waldo()"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		<div class="white3"></div>
+		<div class="white4"></div>
+		<div class="white1"></div>
+		<div class="white2"></div>
+		
+		</div>
+	<script>
+		function waldo()
+		{
+			document.getElementById("win").style.display = "block";
+		}
+	</script>
+	
+	</body>
+</html>
