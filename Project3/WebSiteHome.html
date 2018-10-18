@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Project 3</title>
+		<style>
+			.Linkbar
+			{
+				width: 1560px;
+				height: 25px;
+				margin: -10px 0px 0px -40px;
+				background-color: black;
+			}
+			.Title
+			{				 
+				width: 500px;
+				height: 70px;
+				margin: 50px 0px 0px 0px;
+				margin-left: 20px;
+				padding-bottom: 100px;
+				text-align: center;
+				text-transform: uppercase;
+				text-decoration: none;
+				text-weight: bold;
+				font-size: 45px;
+				font-family: Yellowtail;
+				color: white;
+			}
+			.Title:hover
+			{
+				cursor: pointer;
+			}
+			.aboutUs
+			{
+				float: left;
+				margin-left: 550px;
+				margin-top: -150px;
+				color: white;
+				font-size: 20px;
+			}
+			.about
+			{
+				text-align: center;
+				font-size: 20px;
+				margin-left: 0px;
+			}
+			.articles
+			{
+				float: left;
+				margin-left: 700px;
+				margin-top: -150px;
+				color: white;
+				font-size: 20px;
+			}
+			.community
+			{
+				float: left;
+				margin-left: 850px;
+				margin-top: -150px;
+				color: white;
+				font-size: 20px;
+			}
+			.connect
+			{
+				float: left;
+				margin-left: 1000px;
+				margin-top: -150px;
+				color: white;
+				font-size: 20px;
+			}
+			.loginBar
+			{
+				width: 250px;
+				height: 75px;
+				background-color: black;
+				margin-left: 1250px;
+			}
+			.login
+			{
+				color: white;
+				width: 45px;
+				height: 45px;
+				font-size: 40px;
+				border-radius: 100%;
+				border: 5px solid white;
+				background-color: OrangeRed;
+				margin-left: 1350px;
+				margin-top: -65px;
+				
+				text-align: center;
+			}
+			.login:hover
+			{
+				cursor: pointer;
+			}
+			.logo
+			{
+				width: 1550px;
+				height: 300px;
+				background-color: white;
+				margin: -20px 0px 0px -30px;
+				text-align: center;
+			}
+			.newProducts
+			{
+				width: 1550px;
+				height: 300px;
+				background-color: white;
+				margin: 50px 0px 0px -30px;
+				text-align: center;
+			}
+			a
+			{
+				padding-top: 10px;
+				color: white;
+				text-decoration: none;
+			}
+			a:hover
+			{
+				color: ;
+				text-decoration: underline;
+			}
+			.products
+			{
+				width: 200px;
+				height: 100px;
+				margin-left: 630px;
+				font-weight: bold;
+				font-size: 44px;
+				font-family: Oswald;
+			}
+			.microphone
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: SkyBlue;
+				float: absolute;
+				margin: 70px 0px 0px 300px;
+				background-image: url("http://proaudiodvds.com/wp-content/uploads/2016/10/Microphone.jpg");
+				background-position: right;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.microphone:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.microText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+			}
+			.guitar
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: crimson;
+				float: absolute;
+				margin: -200px 0px 0px 600px;
+				background-image: url("https://www.muzika.hr/wp-content/uploads/2018/02/gitara.jpg");
+				background-position: center;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.guitar:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.guitarText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+			}
+			.drums
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: teal;
+				float: absolute;
+				margin: -200px 0px 0px 900px;
+				background-image: url("https://www.gabrieldrums.com/images/drumsets/apollon-custom.jpg");
+				background-position: center;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.drums:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.drumText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+			}
+			.violin
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: Snow;
+				float: absolute;
+				margin: 100px 0px 0px 300px;
+				background-image: url("http://ambrosiastringquartet.com/photo_gallery/photos/Violin%20Old%20Time%20Music%20Background.jpg");
+				background-position: right;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.violin:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.violinText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+				
+			}
+			.flutes
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: Gold;
+				float: absolute;
+				margin: -200px 0px 0px 600px;
+				background-image: url("https://static1.squarespace.com/static/536a9a09e4b0aacd94e4b210/t/536c20ace4b0f7627c1ed51e/1433592049402/2008-02_Flutes+009.jpg?format=1500w");
+				background-position: center;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.flutes:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.fluteText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+				
+			}
+			.piano
+			{
+				width: 170px;
+				height: 170px;
+				border-radius: 100%;
+				background-color: Indigo;
+				float: absolute;
+				margin: -200px 0px 0px 900px;
+				background-image: url("https://acousticbridge.com/wp-content/uploads/2016/08/Casio-digital-piano-reviews.jpg");
+				background-position: right;
+				background-size: cover;
+				border: 10px solid white;
+			}
+			.piano:hover
+			{
+				cursor: pointer;
+				opacity: .7;
+			}
+			.pianoText
+			{
+				text-align: center;
+				font-size 22px;
+				font-family: Merienda One;
+				margin: -70px 0px 0px 0px;
+				font-weight: bold;
+				
+			}
+			body
+			{
+				background-color: DarkOrange;
+			}
+			.bottomFrame
+			{
+				width: 1530px;
+				height: 150px;
+				background-color: Snow;
+				margin: 100px 0px -50px -10px;
+			}
+			h2
+			{
+				
+			}
+			h3
+			{
+				text-align: center;
+				font-size 14px;
+				font-family: Merienda One;
+			}
+			
+			
+				
+		</style>
+		<link href="https://fonts.googleapis.com/css?family=Inconsolata|Oswald|Righteous" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Merienda+One|Mr+Dafoe|Pacifico|Yellowtail" rel="stylesheet">
+	</head>
+	
+	<body>
+	<div class="Linkbar">
+		<div class="loginBar"></div>
+			<div class="login">L</div>
+			
+	</div>
+			
+			<div class="Title">Music Central</div>
+			<div class="aboutUs"><a href="">ABOUT US</a></div>
+			<div class="articles"><a href="">ARTICLES</a></div>
+			<div class="community"><a href="">COMMUNITY</a></div>
+			<div class="connect"><a href="">CONNECT</a></div>
+			
+			<div class="logo">LOGO</div>
+			<div class="about">Our Mission</div>
+			<div class="newProducts">New Products</div>
+			
+			
+	
+		
+	<div class="bottomFrame">
+		<div class="brands"></div>  
+		
+		<hr></hr>
+		<h3>Copyright © 2018 Music Central, Inc. | Terms  Privacy Policy and Cookie Policy  Intellectual Property<h3>
+	</div>
+	</body>
+</html>
