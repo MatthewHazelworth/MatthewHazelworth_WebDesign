@@ -150,10 +150,6 @@ body
 	background-color: Violet;
 	margin: -75px 0px 0px 130px;
 }
-.nail1
-{
-	
-}
 .leftEar
 {
 	width: 70px;
@@ -181,4 +177,45 @@ body
 	height: 70px;
 	background-color: OliveDrab;
 	margin: -90px 0px 0px 350px;
+}
+.neckShadow
+{
+	width: 200px;
+	height: 10px;
+	background-color: OliveDrab;
+	margin: 125px 0px 0px 70px;
+}
+.nail_1
+{
+	width: 55px;
+	height: 25px;
+	background-color: LightSteelBlue;
+	margin-top: 0px;
+	margin-left: 15px;
+}
+.nailHead_1
+{
+	width: 35px;
+	height: 35px;
+	background-color: LightSteelBlue;
+	margin-top: -30px;
+	margin-left: 20px;	
+}
+.nail_2
+{
+	float: left;
+	width: 55px;
+	height: 25px;
+	background-color: LightSteelBlue;
+	margin-top: -30px;
+	margin-left: 270px;
+}
+.nailHead_2
+{
+	float: ;
+	width: 35px;
+	height: 35px;
+	background-color: LightSteelBlue;
+	margin-top: -35px;
+	margin-left: 285px;	
 }
