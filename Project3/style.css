@@ -64,12 +64,18 @@ body
 {
 	padding-top: 10px;
 }
-.abstract
+h2
 {
 	font-family: Orbitron;
 	
 }
-.p1
+p
 {
+	font-family: Bai Jamjuree;
 	line-height: 1.6;
+}
+.p3
+{
+	width: 350px;
+	height: 250px;
 }
