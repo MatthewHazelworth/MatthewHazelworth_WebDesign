@@ -60,6 +60,25 @@ body
 {
 	font-size: 16px;
 }
+.abstract
+{
+	padding-top: 20px;
+}
+.keyWords
+{
+	padding-top: 20px;
+}	
+.introduction
+{
+	padding-top: 20px;
+}
+.motionGaming
+{
+	float: left;
+	margin-top: 125px;
+	height: 100px;
+	width: 900px;
+}
 .pic1
 {
 	padding-top: 10px;
@@ -70,13 +89,22 @@ body
 	width:450px;
 	height:300px;
 	padding-left: 20px;
-	margin-top: 30px;
+	margin-top: 110px;
 }
-.motionGaming
+.pic3
 {
 	float: left;
-	margin-top: 200px;
-	height: 100px;
+	width:900px;
+	height:450px;
+	margin-top: 20px;
+}
+.pic4
+{
+	float: left;
+	width:350px;
+	height:300px;
+	padding-left: 20px;
+	margin-top: 10px;
 }
 h2
 {
@@ -87,19 +115,30 @@ p
 {
 	font-family: Bai Jamjuree;
 	line-height: 1.6;
+	font-size: 18px;
 }
 .p1
 {
-	width: 750px;
+	width: 850px;
 }
 .p2
 {
-	width: 750px;
+	width: 850px;
 }
 .p3
 {
 	float: left;
 	width: 400px;
 	height: 250px;
-	
+}
+.p4
+{
+	width: 850px;
+}
+.p5
+{
+	float: left;
+	width: 400px;
+	height: 250px;
+	margin-top: 20px;
 }
