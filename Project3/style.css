@@ -44,7 +44,7 @@ body
 .textFrame
 {
 	float: absolute;
-	border: 1px solid black;
+	/*border: 1px solid black;*/
 	width: 900px;
 	height: 5000px;
 	margin: 0 auto;
@@ -101,10 +101,18 @@ body
 .pic4
 {
 	float: left;
-	width:350px;
-	height:300px;
-	padding-left: 20px;
-	margin-top: 10px;
+	width:400px;
+	height:200px;
+	padding-left: 40px;
+	margin-top: 60px;
+}
+.pic5
+{
+	float: left;
+	width:400px;
+	height:200px;
+	padding-left: 40px;
+	margin-top: 120px;
 }
 h2
 {
