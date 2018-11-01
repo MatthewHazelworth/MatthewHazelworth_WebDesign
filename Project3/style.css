@@ -76,6 +76,7 @@ p
 }
 .p3
 {
+	float: left;
 	width: 350px;
 	height: 250px;
 }
