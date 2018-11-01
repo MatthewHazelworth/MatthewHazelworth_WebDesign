@@ -102,7 +102,7 @@ body
 {
 	float: left;
 	width:400px;
-	height:200px;
+	
 	padding-left: 40px;
 	margin-top: 60px;
 }
@@ -110,9 +110,9 @@ body
 {
 	float: left;
 	width:400px;
-	height:200px;
+	
 	padding-left: 40px;
-	margin-top: 120px;
+	margin-top: 50px;
 }
 h2
 {
@@ -137,7 +137,7 @@ p
 {
 	float: left;
 	width: 400px;
-	height: 250px;
+	
 }
 .p4
 {
@@ -147,6 +147,13 @@ p
 {
 	float: left;
 	width: 400px;
-	height: 250px;
+	
 	margin-top: 20px;
+}
+.p6
+{
+	margin-top: px;
+	width: 850px;
+	
+	
 }
