@@ -1,0 +1,75 @@
+body
+{
+	background-color: RoyalBlue;
+}
+.titleBanner
+{
+	float: absolute;
+	background-color: crimson;
+	width: 1535px;
+	height: 100px;
+	margin-left: -10px;
+	margin-top: -10px;
+	position: fixed;
+	
+}
+.logo
+{
+	float: left;
+	width: 400px;
+	height: 90px;
+	margin-top: 10px;
+	margin-left: 50px;
+	
+}
+.sportsTech
+{
+	float: left;
+	width: 400px;
+	height: 100px;
+	color: white;
+	font-size: 44px;
+	margin: 0px 0px 0px 120px;
+	padding-top: 15px;
+	font-family: Righteous;
+
+}
+.whiteFrame
+{
+	width: 1535px;
+	height: 5500px;
+	margin-left: -10px;
+	background-color: white;
+}
+.textFrame
+{
+	float: absolute;
+	/*border: 1px solid black;*/
+	width: 1000px;
+	height: 5000px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.heading
+{
+	font-family: Orbitron;
+	line-height: 1.6;
+	padding-right: 50px;
+}
+.authors
+{
+	font-size: 16px;
+}
+.pic1
+{
+	padding-top: 10px;
+}
+.abstract
+{
+	font-family: Orbitron;
+	
+}
+.p1
+{
+	line-height: 1.6;
+}
