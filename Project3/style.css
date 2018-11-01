@@ -44,8 +44,8 @@ body
 .textFrame
 {
 	float: absolute;
-	/*border: 1px solid black;*/
-	width: 1000px;
+	border: 1px solid black;
+	width: 900px;
 	height: 5000px;
 	margin: 0 auto;
 	padding-top: 100px;
@@ -64,6 +64,20 @@ body
 {
 	padding-top: 10px;
 }
+.pic2
+{
+	float: left;
+	width:450px;
+	height:300px;
+	padding-left: 20px;
+	margin-top: 30px;
+}
+.motionGaming
+{
+	float: left;
+	margin-top: 200px;
+	height: 100px;
+}
 h2
 {
 	font-family: Orbitron;
@@ -74,9 +88,18 @@ p
 	font-family: Bai Jamjuree;
 	line-height: 1.6;
 }
+.p1
+{
+	width: 750px;
+}
+.p2
+{
+	width: 750px;
+}
 .p3
 {
 	float: left;
-	width: 350px;
+	width: 400px;
 	height: 250px;
+	
 }
