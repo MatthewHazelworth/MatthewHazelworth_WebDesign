@@ -112,12 +112,32 @@ body
 	width:400px;
 	
 	padding-left: 40px;
-	margin-top: 50px;
+	margin-top: 80px;
+}
+.pic6
+{
+	float: left;
+	width:400px;
+	
+	margin-left: -20px;
+	margin-top: 80px;
+}
+.pic7
+{
+	float: left;
+	width:400px;
+	
+	padding-left: 40px;
+	margin-top: 80px;
 }
 h2
 {
 	font-family: Orbitron;
 	
+}
+h5
+{
+	padding-top: 100px;
 }
 p
 {
@@ -137,7 +157,7 @@ p
 {
 	float: left;
 	width: 400px;
-	
+	height: 250px;
 }
 .p4
 {
@@ -152,8 +172,6 @@ p
 }
 .p6
 {
-	margin-top: px;
+	
 	width: 850px;
-	
-	
 }
