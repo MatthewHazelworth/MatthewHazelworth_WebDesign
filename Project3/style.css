@@ -1,11 +1,12 @@
 body
 {
-	background-color: RoyalBlue;
+	background-color: white;
 }
 .titleBanner
 {
 	float: absolute;
 	background-color: black;
+	background-image: url("");
 	width: 1535px;
 	height: 100px;
 	margin-left: -10px;
@@ -36,9 +37,9 @@ body
 }
 .whiteFrame
 {
-	width: 1535px;
-	height: 8500px;
-	margin-left: -10px;
+	width: 1100px;
+	height: 7800px;
+	margin-left: 200px;
 	background-color: white;
 }
 .textFrame
@@ -46,7 +47,7 @@ body
 	float: absolute;
 	/*border: 1px solid black;*/
 	width: 900px;
-	height: 8000px;
+	height: 7800px;
 	margin: 0 auto;
 	padding-top: 100px;
 }
@@ -55,6 +56,7 @@ body
 	font-family: Orbitron;
 	line-height: 1.6;
 	padding-right: 50px;
+	font-weight: bold;
 }
 .authors
 {
@@ -66,11 +68,11 @@ body
 }
 .keyWords
 {
-	padding-top: 20px;
+	padding-top: 1px;
 }	
 .introduction
 {
-	padding-top: 20px;
+	padding-top: 1px;
 }
 .motionGaming
 {
@@ -82,7 +84,7 @@ body
 .vrClimbing
 {
 	float: left;
-	margin-top: 12px;
+	margin-top: 2px;
 	height: 100px;
 	width: 900px;
 	text-transform: uppercase;
@@ -90,10 +92,50 @@ body
 .conclusion
 {
 	float: left;
-	margin-top: 12px;
+	margin-top: -11px;
 	height: 100px;
 	width: 900px;
 	text-transform: uppercase;
+}
+.referencesBanner
+{
+	float: absolute;
+	background-color: black;
+	background-image: url("");
+	width: 1530px;
+	height: 500px;
+	margin-left: -318px;
+	margin-top: 75px;
+}
+.references
+{
+	font-family: Orbitron;
+	line-height: 1.6;
+	margin-left: 500px;
+	color: white;
+	width: 400px;
+	font-size: 70px;
+	font-weight: bold;
+}
+.worksCited1
+{
+	float: left;
+	font-family: Orbitron;
+	line-height: 1.6;
+	margin-left: 100px;
+	color: white;
+	width: 600px;
+	font-size: 16px;
+}
+.worksCited2
+{
+	float: left;
+	font-family: Orbitron;
+	line-height: 1.6;
+	margin-left: 100px;
+	color: white;
+	width: 600px;
+	font-size: 16px;
 }
 .pic1
 {
@@ -113,6 +155,7 @@ body
 	width:900px;
 	height:450px;
 	margin-top: 20px;
+	padding-bottom: 3px;
 }
 .pic4
 {
@@ -145,6 +188,7 @@ body
 	float: left;
 	width:400px;
 	padding-left: 63px;
+	padding-bottom: 40px;
 	margin-top: 10px;
 }
 h2
@@ -179,6 +223,7 @@ p
 .p4
 {
 	width: 900px;
+	padding-bottom: 5px;
 }
 .p5
 {
@@ -204,11 +249,18 @@ p
 }
 .p9
 {
-	padding-top: 5px;
+	padding-top: 0px;
+	padding-bottom: 2px;
 	width: 900px;
 }
 .p10
 {
+	padding-top: 7px;
+	width: 900px;
+}
+.p11
+{
 	padding-top: 5px;
 	width: 900px;
 }
+
