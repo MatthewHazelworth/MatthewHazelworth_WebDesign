@@ -1,8 +1,7 @@
 body
 {
 	background-color: white;
-	/*background: radial-gradient( #ffcc00 0%, #0066ff 100%)*/
-	background: linear-gradient(to bottom, #ffffff 0%, #ccccff 116%);
+	/*background: linear-gradient(to bottom, #ffffff 0%, #000000 90%)*/
 }
 .titleBanner
 {
@@ -264,4 +263,25 @@ p
 	padding-top: 5px;
 	width: 900px;
 }
-
+@media only screen and (max-width: 600px)
+{
+	
+	body 
+	{
+		background-color: steelblue;
+		
+	}
+	.body
+	{
+		width: 600px;
+		height: 14550px;
+		font-family: ;
+		font-size: 18px;
+		margin-left: 450px;
+		margin-top: 100px;
+		padding-left: 0px;
+		padding-left: 0px;
+		line-height: 1.2;
+		background-color: white;
+	}
+}
