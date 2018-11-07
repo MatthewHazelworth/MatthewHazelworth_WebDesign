@@ -103,7 +103,7 @@ body
 	background-color: black;
 	background-image: url("");
 	width: 1530px;
-	height: 500px;
+	height: 600px;
 	margin-left: -318px;
 	margin-top: 75px;
 }
@@ -116,6 +116,7 @@ body
 	width: 400px;
 	font-size: 70px;
 	font-weight: bold;
+	padding-top: 75px;
 }
 .worksCited1
 {
@@ -264,3 +265,59 @@ p
 	width: 900px;
 }
 
+@media only screen and (max-width: 360px)
+{
+	
+	body 
+	{
+		background-color: steelblue;
+	}
+	p
+	{
+		font-family: Bai Jamjuree;
+		line-height: 1.6;
+		font-size: 22px;
+	}
+	.whiteFrame
+	{
+		width: 360px;
+		height: 7800px;
+		margin-left: 200px;
+		background-color: white;
+	}
+	.textFrame
+	{
+		float: absolute;
+		/*border: 1px solid black;*/
+		width: 300px;
+		height: 7800px;
+		margin: 0 auto;
+		padding-top: 100px;
+	}
+}
+@media only screen and (max-width: 768px)
+{
+	
+	body 
+	{
+		background-color: steelblue;
+		
+	}
+	.
+	{
+		
+	}
+}
+@media only screen and (max-width: 1024px)
+{
+	
+	body 
+	{
+		background-color: steelblue;
+		
+	}
+	.
+	{
+		
+	}
+}
