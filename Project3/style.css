@@ -261,7 +261,7 @@ p
 	padding-top: 5px;
 	width: 900px;
 }
-
+/*
 @media only screen and (max-width: 360px)
 {
 	
@@ -285,7 +285,7 @@ p
 	.textFrame
 	{
 		float: absolute;
-		/*border: 1px solid black;*/
+		
 		width: 300px;
 		height: 7800px;
 		margin: 0 auto;
@@ -312,6 +312,7 @@ p
 		padding-bottom: 76px;
 	}
 }
+
 @media only screen and (max-width: 768px)
 {
 	
@@ -338,3 +339,4 @@ p
 		
 	}
 }
+*/
