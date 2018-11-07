@@ -294,6 +294,10 @@ p
 		margin: 0 auto;
 		padding-top: 100px;
 	}
+	.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11
+	{
+		width: 300px;
+	}
 }
 @media only screen and (max-width: 768px)
 {
