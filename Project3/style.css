@@ -162,7 +162,6 @@ body
 {
 	float: left;
 	width:400px;
-	
 	padding-left: 42px;
 	margin-top: 60px;
 	padding-bottom: 100px;
@@ -171,7 +170,6 @@ body
 {
 	float: left;
 	width:400px;
-	
 	padding-left: 40px;
 	margin-top: -65px;
     padding-bottom: 76px;
@@ -180,7 +178,6 @@ body
 {
 	float: left;
 	width:400px;
-	
 	margin-left: -20px;
 	margin-top: 10px;
 }
@@ -297,6 +294,22 @@ p
 	.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11
 	{
 		width: 300px;
+	}
+	.pic4
+	{
+		float: left;
+		width:300px;
+		padding-left: 42px;
+		margin-top: 60px;
+		padding-bottom: 100px;
+	}
+	.pic5
+	{
+		float: left;
+		width:300px;
+		padding-left: 40px;
+		margin-top: -65px;
+		padding-bottom: 76px;
 	}
 }
 @media only screen and (max-width: 768px)
