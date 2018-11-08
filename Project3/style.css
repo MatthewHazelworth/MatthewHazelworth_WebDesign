@@ -293,12 +293,12 @@ p
 	}
 	.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11
 	{
-		width: 500px;
+		width: 100%;
 	}
 	.pic4
 	{
 		float: left;
-		width:300px;
+		width: 100%;
 		padding-left: 42px;
 		margin-top: 60px;
 		padding-bottom: 100px;
@@ -306,7 +306,7 @@ p
 	.pic5
 	{
 		float: left;
-		width:300px;
+		width: 100%;
 		padding-left: 40px;
 		margin-top: -65px;
 		padding-bottom: 76px;
