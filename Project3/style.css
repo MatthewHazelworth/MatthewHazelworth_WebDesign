@@ -595,7 +595,7 @@
 	{
 		float: absolute;
 		/*border: 1px solid black;*/
-		width: 90%;
+		width: 95%;
 		height: 7800px;
 		margin: 0 auto;
 		padding-top: 100px;
@@ -628,14 +628,14 @@
 		float: left;
 		margin-top: 125px;
 		height: 100px;
-		width: 90%;
+		width: 95%;
 	}
 	.vrClimbing
 	{
 		float: left;
 		margin-top: 2px;
 		height: 100px;
-		width: 90%;
+		width: 95%;
 		text-transform: uppercase;
 	}
 	.conclusion
@@ -643,7 +643,7 @@
 		float: left;
 		margin-top: -11px;
 		height: 100px;
-		width: 90%;
+		width: 95%;
 		text-transform: uppercase;
 	}
 	.referencesBanner
@@ -757,11 +757,11 @@
 	}
 	.p1
 	{
-		width: 90%;
+		width: 95%;
 	}
 	.p2
 	{
-		width: 90%;
+		width: 95%;
 	}
 	.p3
 	{
@@ -771,7 +771,7 @@
 	}
 	.p4
 	{
-		width: 90%;
+		width: 95%;
 		padding-bottom: 5px;
 	}
 	.p5
@@ -789,32 +789,32 @@
 	.p7
 	{
 		padding-top: 30px;
-		width: 90%;
+		width: 95%;
 	}
 	.p8
 	{
 		padding-top: 30px;
-		width: 90%;
+		width: 95%;
 	}
 	.p9
 	{
 		padding-top: 0px;
 		padding-bottom: 2px;
-		width: 90%;
+		width: 95%;
 	}
 	.p10
 	{
 		padding-top: 60px;
-		width: 90%;
+		width: 95%;
 	}
 	.p11
 	{
 		padding-top: 140px;
-		width: 90%;
+		width: 95%;
 	}
 	.p12
 	{
 		padding-top: ;
-		width: 90%;
+		width: 95%;
 	}
 }
