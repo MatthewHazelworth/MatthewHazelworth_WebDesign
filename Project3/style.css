@@ -142,8 +142,8 @@
 	}
 	.pic1
 	{
-		width:900px;
-		height:400px;
+		width: 900px; 
+		height: 410px;
 		padding-top: 10px;
 	}
 	.pic2
@@ -556,10 +556,10 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 1535px;
+		width: 100%;
 		height: 100px;
-		margin-left: -10px;
-		margin-top: -10px;
+		margin-left: 0px;
+		margin-top: 0px;
 		position: fixed;
 		
 	}
@@ -586,7 +586,7 @@
 	}
 	.whiteFrame
 	{
-		width: 1100px;
+		width: 100%;
 		height: 7800px;
 		margin-left: 200px;
 		background-color: white;
