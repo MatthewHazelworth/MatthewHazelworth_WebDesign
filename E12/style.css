@@ -10,16 +10,18 @@ p
 }
 .header 
 {
-    font-size: 100px;
+	font-weight: bold;
+	color: gold;
+	font-family: Kumar One Outline;
+    font-size: 90px;
 	text-align: center;
-	margin: 0 auto;
+	margin: 0;
 }
 .pageOne
 {
     width: 1500px;
-    height: 700px;
-    margin: ;
-    background-color: rebeccapurple;
+    margin: 0 auto;
+    background-color: black;
     transition: all .5s ease;
 }
  
