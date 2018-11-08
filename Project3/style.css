@@ -264,20 +264,46 @@ p
 
 @media only screen and (max-width: 360px)
 {
-	
-	body 
+		body
 	{
-		background-color: steelblue;
+		background-color: white;
+		/*background: linear-gradient(to bottom, #ffffff 0%, #000000 90%)*/
 	}
-	p
+	.titleBanner
 	{
-		font-family: Bai Jamjuree;
-		line-height: 1.6;
-		font-size: 22px;
+		float: absolute;
+		background-color: black;
+		width: 1535px;
+		height: 100px;
+		margin-left: -10px;
+		margin-top: -10px;
+		position: fixed;
+		
+	}
+	.logo
+	{
+		float: left;
+		width: 400px;
+		height: 90px;
+		margin-top: 10px;
+		margin-left: 150px;
+		
+	}
+	.sportsTech
+	{
+		float: left;
+		width: 400px;
+		height: 100px;
+		color: white;
+		font-size: 44px;
+		margin: 0px 0px 0px 550px;
+		padding-top: 15px;
+		font-family: Righteous;
+
 	}
 	.whiteFrame
 	{
-		width: 100%;
+		width: 1100px;
 		height: 7800px;
 		margin-left: 200px;
 		background-color: white;
@@ -285,20 +311,123 @@ p
 	.textFrame
 	{
 		float: absolute;
-		
-		width: 100%;
+		/*border: 1px solid black;*/
+		width: 900px;
 		height: 7800px;
 		margin: 0 auto;
 		padding-top: 100px;
 	}
-	.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9, .p10, .p11
+	.heading
 	{
-		width: 100%;
+		font-family: Orbitron;
+		line-height: 1.6;
+		padding-right: 50px;
+		font-weight: bold;
+	}
+	.authors
+	{
+		font-size: 16px;
+	}
+	.abstract
+	{
+		padding-top: 20px;
+	}
+	.keyWords
+	{
+		padding-top: 1px;
+	}	
+	.introduction
+	{
+		padding-top: 1px;
+	}
+	.motionGaming
+	{
+		float: left;
+		margin-top: 125px;
+		height: 100px;
+		width: 900px;
+	}
+	.vrClimbing
+	{
+		float: left;
+		margin-top: 2px;
+		height: 100px;
+		width: 900px;
+		text-transform: uppercase;
+	}
+	.conclusion
+	{
+		float: left;
+		margin-top: -11px;
+		height: 100px;
+		width: 900px;
+		text-transform: uppercase;
+	}
+	.referencesBanner
+	{
+		float: absolute;
+		background-color: black;
+		background-image: url("");
+		width: 1530px;
+		height: 600px;
+		margin-left: -318px;
+		margin-top: 75px;
+	}
+	.references
+	{
+		font-family: Orbitron;
+		line-height: 1.6;
+		margin-left: 500px;
+		color: white;
+		width: 400px;
+		font-size: 70px;
+		font-weight: bold;
+		padding-top: 75px;
+	}
+	.worksCited1
+	{
+		float: left;
+		font-family: Orbitron;
+		line-height: 1.6;
+		margin-left: 100px;
+		color: white;
+		width: 600px;
+		font-size: 16px;
+	}
+	.worksCited2
+	{
+		float: left;
+		font-family: Orbitron;
+		line-height: 1.6;
+		margin-left: 100px;
+		color: white;
+		width: 600px;
+		font-size: 16px;
+	}
+	.pic1
+	{
+		padding-top: 10px;
+	}
+	.pic2
+	{
+		float: left;
+		width: 466px;
+		height:300px;
+		padding-left: 20px;
+		margin-top: 110px;
+	}
+	.pic3
+	{
+		float: left;
+		width:900px;
+		height:450px;
+		margin-top: 20px;
+		padding-bottom: 3px;
 	}
 	.pic4
 	{
 		float: left;
-		width: 100%;
+		width:400px;
 		padding-left: 42px;
 		margin-top: 60px;
 		padding-bottom: 100px;
@@ -306,10 +435,97 @@ p
 	.pic5
 	{
 		float: left;
-		width: 100%;
+		width: 400px;
 		padding-left: 40px;
 		margin-top: -65px;
 		padding-bottom: 76px;
+	}
+	.pic6
+	{
+		float: left;
+		width: 400px;
+		margin-left: -20px;
+		margin-top: 10px;
+	}
+	.pic7
+	{
+		float: left;
+		width:400px;
+		padding-left: 63px;
+		padding-bottom: 40px;
+		margin-top: 10px;
+	}
+	h2
+	{
+		font-family: Orbitron;
+		
+	}
+	h5
+	{
+		padding-top: 100px;
+	}
+	p
+	{
+		font-family: Bai Jamjuree;
+		line-height: 1.6;
+		font-size: 18px;
+	}
+	.p1
+	{
+		width: 900px;
+	}
+	.p2
+	{
+		width: 900px;
+	}
+	.p3
+	{
+		float: left;
+		width: 400px;
+		height: 250px;
+	}
+	.p4
+	{
+		width: 900px;
+		padding-bottom: 5px;
+	}
+	.p5
+	{
+		float: left;
+		width: 400px;
+		
+		margin-top: 20px;
+	}
+	.p6
+	{
+		margin-top: 20px;
+		width: 898px;
+	}
+	.p7
+	{
+		padding-top: 30px;
+		width: 900px;
+	}
+	.p8
+	{
+		padding-top: 30px;
+		width: 900px;
+	}
+	.p9
+	{
+		padding-top: 0px;
+		padding-bottom: 2px;
+		width: 900px;
+	}
+	.p10
+	{
+		padding-top: 7px;
+		width: 900px;
+	}
+	.p11
+	{
+		padding-top: 5px;
+		width: 900px;
 	}
 }
 
