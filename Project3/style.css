@@ -619,7 +619,7 @@
 		height: 100px;
 		color: white;
 		font-size: 34px;
-		margin: 0px 0px 0px 0px;
+		margin: 0px 0px 0px 20px;
 		padding-top: 15px;
 		font-family: Righteous;
 
@@ -637,7 +637,7 @@
 		border: 1px solid black;
 		width: 360px;
 		height: 7800px;
-		margin-right: 100px;
+		margin-left: -100px;
 		padding-top: 100px;
 	}
 	.heading
