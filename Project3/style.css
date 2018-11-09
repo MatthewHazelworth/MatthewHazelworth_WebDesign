@@ -328,8 +328,8 @@
 	}
 	.sportsTech
 	{
-		float: absolute;
-		width: 200px;
+		float: left;
+		width: 400px;
 		height: 100px;
 		color: white;
 		font-size: 44px;
@@ -582,10 +582,11 @@
 	}
 	.titleBanner
 	{
-		float: absolute;
-		background-color: white;
+		
+		background-color: ;
 		width: 360px;
 		height: ;
+		border: 1px solid black;
 		
 	}
 	.sportsTech
@@ -620,7 +621,7 @@
 	{
 		font-family: Orbitron;
 		line-height: 1.6;
-		padding-right: 40px;
+		padding-right: 32px;
 		font-weight: bold;
 		width: 360px;
 	}
