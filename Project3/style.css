@@ -715,7 +715,7 @@
 	}
 	.pic2
 	{
-		float: left;
+		
 		width: 360px;
 		height: 300px;
 		padding-left: 36px;
@@ -726,7 +726,7 @@
 	}
 	.pic3
 	{
-		float: left;
+		
 		width: 360px;
 		height:450px;
 		margin-top: 20px;
@@ -736,7 +736,7 @@
 	}
 	.pic4
 	{
-		float: left;
+		
 		width: 360px;
 		height: 200px;
 		margin-left: 40px;
@@ -756,7 +756,7 @@
 	}
 	.pic6
 	{
-		float: left;
+		
 		width: 450px;
 		margin-left: -60px;
 		margin-top: 10px;
@@ -765,7 +765,7 @@
 	}
 	.pic7
 	{
-		float: left;
+		
 		width: 452px;
 		padding-left: 0px;
 		padding-bottom: 14px;
@@ -815,7 +815,7 @@
 	}
 	.p3
 	{
-		float: left;
+		
 		width: 400px;
 		height: 250px;
 	}
@@ -826,7 +826,7 @@
 	}
 	.p5
 	{
-		float: left;
+		
 		width: 400px;
 		
 		margin-top: 20px;
