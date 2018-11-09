@@ -573,7 +573,7 @@
 	}
 }
 
-@media only screen and (max-width: 400px)
+@media only screen and (min-width: 760px)
 {
 	body
 	{
@@ -583,10 +583,7 @@
 	.titleBanner
 	{
 		font-family: Righteous;
-		background-color: ;
 		width: 360px;
-		height: ;
-		/*border: 1px solid black;*/
 		font-size: 34px;
 		color: black;
 		
@@ -709,9 +706,7 @@
 		
 		width: 360px;
 		height: 300px;
-		padding-left: 36px;
-		margin-top: 110px;
-		margin-left: 51px;
+		margin-top: 200px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
 		background-size: cover;
 	}
