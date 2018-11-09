@@ -318,7 +318,14 @@
 		background-color: white;
 		/*background: linear-gradient(to bottom, #ffffff 0%, #000000 90%)*/
 	}
-	
+	.titleBanner
+	{
+		float: absolute;
+		background-color: white;
+		width: 360px;
+		height: ;
+		
+	}
 	.sportsTech
 	{
 		float: left;
@@ -573,14 +580,12 @@
 		background-color: white;
 		/*background: linear-gradient(to bottom, #ffffff 0%, #000000 90%)*/
 	}
+	.titleBanner
 	{
 		float: absolute;
 		background-color: white;
 		width: 360px;
 		height: ;
-		margin-left: -10px;
-		margin-top: -10px;
-		position: fixed;
 		
 	}
 	.sportsTech
@@ -702,7 +707,7 @@
 	.pic1
 	{
 		width: 360px; 
-		height: 230px;
+		height: 190px;
 		padding-top: 10px;
 		background: url("https://casques-vr.com/wp-content/uploads/2016/08/The_Climb_Oculus_Touch-640x360.jpg");
 		background-size: contain;
