@@ -596,14 +596,14 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 360px;
+		width: calc(100% - 20px);
 		height: 100px;
 		margin: 0 auto;
-		margin-top: -10px;
+		margin-top: 0px;
 		position: fixed;
 		
 	}
-	.logo
+	/*.logo
 	{
 		float: left;
 		width: 400px;
@@ -611,7 +611,7 @@
 		margin-top: 10px;
 		margin-left: 150px;
 		
-	}
+	}*/
 	.sportsTech
 	{
 		float: left;
