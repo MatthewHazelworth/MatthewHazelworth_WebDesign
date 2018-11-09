@@ -619,7 +619,7 @@
 		height: 100px;
 		color: white;
 		font-size: 34px;
-		padding: 0px 0px 0px 5px;
+		padding: 0px 0px 0px 0px;
 		padding-top: 15px;
 		font-family: Righteous;
 
@@ -633,7 +633,7 @@
 	}
 	.textFrame
 	{
-		float: left;
+		float: ;
 		border: 1px solid black;
 		width: 360px;
 		height: 7800px;
