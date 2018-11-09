@@ -628,12 +628,12 @@
 	{
 		width: 360px;
 		height: 7800px;
-		margin-left: ;
+		margin-left: -100px;
 		background-color: royalblue;
 	}
 	.textFrame
 	{
-		float: absolute;
+		float: left;
 		border: 1px solid black;
 		width: 360px;
 		height: 7800px;
