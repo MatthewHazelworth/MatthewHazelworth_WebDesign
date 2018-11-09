@@ -628,7 +628,7 @@
 	{
 		width: 360px;
 		height: 7800px;
-		margin-left: -10px;
+		margin-left: 0px;
 		background-color: royalblue;
 	}
 	.textFrame
@@ -637,7 +637,7 @@
 		border: 1px solid black;
 		width: 360px;
 		height: 7800px;
-		margin-left: -100px;
+		margin-left: 0px;
 		padding-top: 100px;
 	}
 	.heading
@@ -730,7 +730,7 @@
 	}
 	.pic1
 	{
-		width:900px;
+		width:360px;
 		height:400px;
 		padding-top: 10px;
 	}
@@ -745,7 +745,7 @@
 	.pic3
 	{
 		float: left;
-		width:900px;
+		width:360px;
 		height:450px;
 		margin-top: 20px;
 		padding-bottom: 3px;
@@ -812,7 +812,7 @@
 	}
 	.p4
 	{
-		width: 900px;
+		width: 360px;
 		padding-bottom: 5px;
 	}
 	.p5
