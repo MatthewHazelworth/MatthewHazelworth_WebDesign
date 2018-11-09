@@ -596,7 +596,7 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: calc(100% - 20px);
+		width: 360;
 		height: 100px;
 		margin: 0 auto;
 		margin-top: 0px;
@@ -615,11 +615,11 @@
 	.sportsTech
 	{
 		float: left;
-		width: 400px;
+		width: 200px;
 		height: 100px;
 		color: white;
-		font-size: 44px;
-		margin: 0px 0px 0px 550px;
+		font-size: 34px;
+		margin: 0px 0px 0px 0px;
 		padding-top: 15px;
 		font-family: Righteous;
 
