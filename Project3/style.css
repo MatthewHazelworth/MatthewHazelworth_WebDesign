@@ -94,7 +94,7 @@
 	.conclusion
 	{
 		float: left;
-		margin-top: -11px;
+		margin-top: -7px;
 		height: 100px;
 		width: 900px;
 		text-transform: uppercase;
@@ -140,19 +140,25 @@
 		width: 600px;
 		font-size: 16px;
 	}
+	
 	.pic1
 	{
 		width: 900px; 
 		height: 410px;
 		padding-top: 10px;
+		background: url("https://casques-vr.com/wp-content/uploads/2016/08/The_Climb_Oculus_Touch-640x360.jpg");
+		background-size: cover;
 	}
 	.pic2
 	{
 		float: left;
-		/*width: 466px;
-		height:300px;*/
+		width: 400px;
+		height: 300px;
 		padding-left: 36px;
 		margin-top: 110px;
+		margin-left: 51px;
+		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
+		background-size: cover;
 	}
 	.pic3
 	{
@@ -161,22 +167,28 @@
 		height:450px;
 		margin-top: 20px;
 		padding-bottom: 3px;
+		background: url("http://www.goodworklabs.com/wp-content/uploads/2017/02/6-How_VR_Is_Going_To_Change_the_Gaming_Industry.jpg");
+		background-size: cover;
 	}
 	.pic4
 	{
 		float: left;
-		width:400px;
-		padding-left: 42px;
-		margin-top: 60px;
-		padding-bottom: 100px;
+		width: 460px;
+		height: 500px;
+		margin-left: 40px;
+		margin-top: 123px;
+		background: url("https://www.shape.com/sites/shape.com/files/styles/slide/public/media/woman-man-lifting-barbells_0.jpg");
+		background-size: cover;
 	}
 	.pic5
 	{
 		float: left;
-		width: 400px;
-		padding-left: 40px;
-		margin-top: -65px;
-		padding-bottom: 76px;
+		width: 460px;
+		height: 96px;
+		margin-left: 40px;
+		/*margin-top: 55px;*/
+		background: url("");
+		background-size: cover;
 	}
 	.pic6
 	{
@@ -184,6 +196,8 @@
 		width: 450px;
 		margin-left: -60px;
 		margin-top: 10px;
+		background: url("");
+		background-size: cover;
 	}
 	.pic7
 	{
@@ -192,7 +206,27 @@
 		padding-left: 0px;
 		padding-bottom: 14px;
 		margin-top: 23px;
+		background: url("");
+		background-size: cover;
 	}
+	.pic8
+	{
+		width: 900px; 
+		height: 410px;
+		padding-top: 10px;
+		background: url("http://www.pickaquoy.co.uk/wp-content/uploads/2013/05/Climbing-5-R.jpg");
+		background-size: cover;
+	}
+	.pic9
+	{
+		width: 900px;
+		height: 410px;
+		padding-top: 100px;
+		margin-top: 120px;
+		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
+		background-size: cover;
+	}
+	
 	h2
 	{
 		font-family: Orbitron;
@@ -207,6 +241,11 @@
 		font-family: Bai Jamjuree;
 		line-height: 1.6;
 		font-size: 18px;
+	}
+	img
+	{
+		width: auto;
+		height: auto;
 	}
 	.p1
 	{
@@ -236,8 +275,9 @@
 	}
 	.p6
 	{
+		float: left;
 		margin-top: 20px;
-		width: 898px;
+		width: 900px;
 	}
 	.p7
 	{
@@ -252,17 +292,17 @@
 	.p9
 	{
 		padding-top: 0px;
-		padding-bottom: 2px;
+		padding-bottom: 19px;
 		width: 900px;
 	}
 	.p10
 	{
-		padding-top: 60px;
+		padding-top: 20px;
 		width: 900px;
 	}
 	.p11
 	{
-		padding-top: 140px;
+		padding-top: 17px;
 		width: 900px;
 	}
 	.p12
@@ -556,10 +596,10 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 100%;
+		width: 1535px;
 		height: 100px;
-		margin-left: 0px;
-		margin-top: 0px;
+		margin-left: -10px;
+		margin-top: -10px;
 		position: fixed;
 		
 	}
@@ -586,7 +626,7 @@
 	}
 	.whiteFrame
 	{
-		width: 100%;
+		width: 1100px;
 		height: 7800px;
 		margin-left: 200px;
 		background-color: white;
@@ -595,7 +635,7 @@
 	{
 		float: absolute;
 		/*border: 1px solid black;*/
-		width: 100%;
+		width: 900px;
 		height: 7800px;
 		margin: 0 auto;
 		padding-top: 100px;
@@ -606,9 +646,6 @@
 		line-height: 1.6;
 		padding-right: 50px;
 		font-weight: bold;
-		width: 100%;
-		margin: 0 auto;
-		text-align: center;
 	}
 	.authors
 	{
@@ -631,14 +668,14 @@
 		float: left;
 		margin-top: 125px;
 		height: 100px;
-		width: 100%;
+		width: 900px;
 	}
 	.vrClimbing
 	{
 		float: left;
 		margin-top: 2px;
 		height: 100px;
-		width: 100%;
+		width: 900px;
 		text-transform: uppercase;
 	}
 	.conclusion
@@ -646,7 +683,7 @@
 		float: left;
 		margin-top: -11px;
 		height: 100px;
-		width: 100%;
+		width: 900px;
 		text-transform: uppercase;
 	}
 	.referencesBanner
@@ -692,7 +729,7 @@
 	}
 	.pic1
 	{
-		width:300px;
+		width:900px;
 		height:400px;
 		padding-top: 10px;
 	}
@@ -707,7 +744,7 @@
 	.pic3
 	{
 		float: left;
-		width:300px;
+		width:900px;
 		height:450px;
 		margin-top: 20px;
 		padding-bottom: 3px;
@@ -760,11 +797,11 @@
 	}
 	.p1
 	{
-		width: 95%;
+		width: 900px;
 	}
 	.p2
 	{
-		width: 95%;
+		width: 900px;
 	}
 	.p3
 	{
@@ -774,7 +811,7 @@
 	}
 	.p4
 	{
-		width: 95%;
+		width: 900px;
 		padding-bottom: 5px;
 	}
 	.p5
@@ -792,32 +829,32 @@
 	.p7
 	{
 		padding-top: 30px;
-		width: 95%;
+		width: 900px;
 	}
 	.p8
 	{
 		padding-top: 30px;
-		width: 95%;
+		width: 900px;
 	}
 	.p9
 	{
 		padding-top: 0px;
 		padding-bottom: 2px;
-		width: 95%;
+		width: 900px;
 	}
 	.p10
 	{
 		padding-top: 60px;
-		width: 95%;
+		width: 900px;
 	}
 	.p11
 	{
 		padding-top: 140px;
-		width: 95%;
+		width: 900px;
 	}
 	.p12
 	{
-		padding-top: ;
-		width: 95%;
+		padding-top: 0px;
+		width: 900px;
 	}
 }
