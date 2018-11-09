@@ -328,8 +328,8 @@
 	}
 	.sportsTech
 	{
-		float: left;
-		width: 400px;
+		float: absolute;
+		width: 200px;
 		height: 100px;
 		color: white;
 		font-size: 44px;
