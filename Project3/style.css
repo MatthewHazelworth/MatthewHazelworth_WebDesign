@@ -585,11 +585,11 @@
 	}
 }
 
-@media only screen and (max-width: 360px)
+@media only screen and (max-width: 400px)
 {
 	body
 	{
-		background-color: Tomato;
+		background-color: white;
 		/*background: linear-gradient(to bottom, #ffffff 0%, #000000 90%)*/
 	}
 	
@@ -598,7 +598,7 @@
 		float: ;
 		width: 100px;
 		height: 100px;
-		color: white;
+		color: black;
 		font-size: 34px;
 		padding: 0px 0px 0px 0px;
 		padding-top: 15px;
@@ -610,7 +610,7 @@
 		width: 360px;
 		height: 7800px;
 		margin-left: 0px;
-		background-color: royalblue;
+		background-color: white;
 	}
 	.textFrame
 	{
@@ -625,7 +625,7 @@
 	{
 		font-family: Orbitron;
 		line-height: 1.6;
-		padding-right: 50px;
+		padding-right: 40px;
 		font-weight: bold;
 		width: 360px;
 	}
@@ -650,14 +650,14 @@
 		float: left;
 		margin-top: 125px;
 		height: 100px;
-		width: 900px;
+		width: 360px;
 	}
 	.vrClimbing
 	{
 		float: left;
 		margin-top: 2px;
 		height: 100px;
-		width: 900px;
+		width: 360px;
 		text-transform: uppercase;
 	}
 	.conclusion
@@ -665,7 +665,7 @@
 		float: left;
 		margin-top: -11px;
 		height: 100px;
-		width: 900px;
+		width: 360px;
 		text-transform: uppercase;
 	}
 	.referencesBanner
@@ -673,7 +673,7 @@
 		float: absolute;
 		background-color: black;
 		background-image: url("");
-		width: 1530px;
+		width: 360px;
 		height: 600px;
 		margin-left: -318px;
 		margin-top: 75px;
@@ -720,7 +720,7 @@
 	.pic2
 	{
 		float: left;
-		width: 400px;
+		width: 360px;
 		height: 300px;
 		padding-left: 36px;
 		margin-top: 110px;
@@ -731,7 +731,7 @@
 	.pic3
 	{
 		float: left;
-		width:360px;
+		width: 360px;
 		height:450px;
 		margin-top: 20px;
 		padding-bottom: 3px;
@@ -741,8 +741,8 @@
 	.pic4
 	{
 		float: left;
-		width: 460px;
-		height: 500px;
+		width: 360px;
+		height: 200px;
 		margin-left: 40px;
 		margin-top: 123px;
 		background: url("https://www.shape.com/sites/shape.com/files/styles/slide/public/media/woman-man-lifting-barbells_0.jpg");
@@ -751,7 +751,7 @@
 	.pic5
 	{
 		float: left;
-		width: 460px;
+		width: 360px;
 		height: 96px;
 		margin-left: 40px;
 		/*margin-top: 55px;*/
