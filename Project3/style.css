@@ -634,10 +634,10 @@
 	.textFrame
 	{
 		float: absolute;
-		/*border: 1px solid black;*/
-		width: 900px;
+		border: 1px solid black;
+		width: 360px;
 		height: 7800px;
-		margin: 0 auto;
+		margin:;
 		padding-top: 100px;
 	}
 	.heading
