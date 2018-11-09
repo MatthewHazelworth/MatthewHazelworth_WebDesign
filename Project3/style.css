@@ -595,7 +595,7 @@
 	{
 		float: absolute;
 		/*border: 1px solid black;*/
-		width: 95%;
+		width: 100%;
 		height: 7800px;
 		margin: 0 auto;
 		padding-top: 100px;
@@ -606,6 +606,9 @@
 		line-height: 1.6;
 		padding-right: 50px;
 		font-weight: bold;
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
 	}
 	.authors
 	{
@@ -628,14 +631,14 @@
 		float: left;
 		margin-top: 125px;
 		height: 100px;
-		width: 95%;
+		width: 100%;
 	}
 	.vrClimbing
 	{
 		float: left;
 		margin-top: 2px;
 		height: 100px;
-		width: 95%;
+		width: 100%;
 		text-transform: uppercase;
 	}
 	.conclusion
@@ -643,7 +646,7 @@
 		float: left;
 		margin-top: -11px;
 		height: 100px;
-		width: 95%;
+		width: 100%;
 		text-transform: uppercase;
 	}
 	.referencesBanner
