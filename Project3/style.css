@@ -582,11 +582,13 @@
 	}
 	.titleBanner
 	{
-		
+		font-family: Righteous;
 		background-color: ;
 		width: 360px;
 		height: ;
-		border: 1px solid black;
+		/*border: 1px solid black;*/
+		font-size: 34px;
+		color: black;
 		
 	}
 	
