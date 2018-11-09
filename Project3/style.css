@@ -596,9 +596,9 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 1535px;
+		width: 360px;
 		height: 100px;
-		margin-left: -10px;
+		margin: 0 auto;
 		margin-top: -10px;
 		position: fixed;
 		
