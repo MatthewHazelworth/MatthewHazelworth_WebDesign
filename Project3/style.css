@@ -596,14 +596,14 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 1535px;
+		width: 360px;
 		height: 100px;
 		margin-left: -10px;
 		margin-top: -10px;
 		position: fixed;
 		
 	}
-	.logo
+	/*.logo
 	{
 		float: left;
 		width: 400px;
@@ -611,7 +611,7 @@
 		margin-top: 10px;
 		margin-left: 150px;
 		
-	}
+	}*/
 	.sportsTech
 	{
 		float: left;
@@ -626,7 +626,7 @@
 	}
 	.whiteFrame
 	{
-		width: 1100px;
+		width: 360px;
 		height: 7800px;
 		margin-left: 200px;
 		background-color: white;
@@ -635,7 +635,7 @@
 	{
 		float: absolute;
 		/*border: 1px solid black;*/
-		width: 900px;
+		width: 360px;
 		height: 7800px;
 		margin: 0 auto;
 		padding-top: 100px;
