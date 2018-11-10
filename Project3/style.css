@@ -585,7 +585,7 @@
 		font-size: 34px;
 		color: black;
 		background-color: white;
-		
+		position: static;
 	}
 	
 	.whiteFrame
@@ -743,7 +743,7 @@
 		margin-left: 40px;
 		/*margin-top: 55px;*/
 		background: url("");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic6
 	{
@@ -752,7 +752,7 @@
 		margin-left: 0px;
 		margin-top: 10px;
 		background: url("");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic7
 	{
@@ -762,7 +762,7 @@
 		padding-bottom: 14px;
 		margin-top: 23px;
 		background: url("");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic8
 	{
@@ -770,7 +770,7 @@
 		height: 410px;
 		padding-top: 10px;
 		background: url("http://www.pickaquoy.co.uk/wp-content/uploads/2013/05/Climbing-5-R.jpg");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic9
 	{
@@ -779,7 +779,7 @@
 		padding-top: 100px;
 		margin-top: 120px;
 		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
-		background-size: cover;
+		background-size: contain;
 	}
 	
 	h2
@@ -820,8 +820,6 @@
 	{
 		
 		width: 360px;
-		
-		margin-top: 20px;
 	}
 	.p6
 	{
