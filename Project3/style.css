@@ -653,7 +653,7 @@
 		width: 370px;
 		height: 1000px;
 		margin-top: 75px;
-		margin-left: 50px;
+		margin-left: -5px;
 	}
 	.references
 	{
@@ -661,7 +661,7 @@
 		line-height: 1.6;
 		color: white;
 		width: 325px;
-		font-size: 40px;
+		font-size: 30px;
 		font-weight: bold;
 		padding-top: ;
 	}
@@ -672,10 +672,10 @@
 		line-height: 1.6;
 		margin-left: 40px;
 		color: white;
-		width: 150px;
+		width: 350px;
 		font-size: 16px;
 	}
-	.worksCited2
+	/*.worksCited2
 	{
 		float: left;
 		font-family: Orbitron;
@@ -684,7 +684,7 @@
 		color: white;
 		width: 150px;
 		font-size: 16px;
-	}
+	}*/
 	.pic1
 	{
 		width: 100%;
