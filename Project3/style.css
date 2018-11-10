@@ -748,8 +748,7 @@
 	.pic9
 	{
 		width: 325px;
-		height: 200px;
-		padding-top: px;
+		height: 100px;
 		margin-top: 120px;
 		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
 		background-size: contain;
@@ -808,7 +807,7 @@
 	}
 	.p8
 	{
-		padding-top: 30px;
+		padding-top: 100px;
 		width: 100%;
 	}
 	.p9
