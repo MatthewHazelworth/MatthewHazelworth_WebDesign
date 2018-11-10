@@ -582,7 +582,7 @@
 	.whiteFrame
 	{
 		width: 360px;
-		height: 10000px;
+		height: 15000px;
 		margin-left: 0px;
 		background-color: white;
 	}
@@ -719,8 +719,8 @@
 	.pic4
 	{
 		
-		width: 320px;
-		height: 200px;
+		width: 300px;
+		height: 220px;
 		margin-left: 0px;
 		margin-top: ;
 		background: url("https://www.shape.com/sites/shape.com/files/styles/slide/public/media/woman-man-lifting-barbells_0.jpg");
@@ -740,7 +740,7 @@
 	.pic8
 	{
 		width: 325px; 
-		height: 210px;
+		height: 200px;
 		padding-top: 10px;
 		background: url("http://www.pickaquoy.co.uk/wp-content/uploads/2013/05/Climbing-5-R.jpg");
 		background-size: contain;
@@ -748,7 +748,7 @@
 	.pic9
 	{
 		width: 325px;
-		height: 210px;
+		height: 150px;
 		padding-top: 100px;
 		margin-top: 120px;
 		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
@@ -776,60 +776,60 @@
 	}
 	.p2
 	{
-		width: 325px;
+		width: 100%;
 	}
 	.p3
 	{
 		
-		width: 325px;
+		width: 100%;
 		height: 250px;
 		padding-bottom: 40px;
 	}
 	.p4
 	{
-		width: 325px;
+		width: 100%;
 		padding-bottom: 5px;
 	}
 	.p5
 	{
 		
-		width: 325px;
+		width: 100%;
 	}
 	.p6
 	{
 		
 		margin-top: 15px;
-		width: 325px;
+		width: 100%;
 	}
 	.p7
 	{
 		padding-top: 30px;
-		width: 325px;
+		width: 100%;
 	}
 	.p8
 	{
 		padding-top: 30px;
-		width: 325px;
+		width: 100%;
 	}
 	.p9
 	{
 		padding-top: 0px;
 		padding-bottom: 2px;
-		width: 325px;
+		width: 100%;
 	}
 	.p10
 	{
 		padding-top: 60px;
-		width: 325px;
+		width: 100%;
 	}
 	.p11
 	{
 		padding-top: 140px;
-		width: 325px;
+		width: 100%;
 	}
 	.p12
 	{
 		padding-top: 0px;
-		width: 325px;
+		width: 100%;
 	}
 }
