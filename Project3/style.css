@@ -748,8 +748,8 @@
 	.pic6
 	{
 		
-		width: 450px;
-		margin-left: -60px;
+		width: 360px;
+		margin-left: 0px;
 		margin-top: 10px;
 		background: url("");
 		background-size: cover;
@@ -757,7 +757,7 @@
 	.pic7
 	{
 		
-		width: 452px;
+		width: 360px;
 		padding-left: 0px;
 		padding-bottom: 14px;
 		margin-top: 23px;
@@ -819,7 +819,7 @@
 	.p5
 	{
 		
-		width: 400px;
+		width: 360px;
 		
 		margin-top: 20px;
 	}
@@ -827,37 +827,37 @@
 	{
 		
 		margin-top: 20px;
-		width: 898px;
+		width: 360px;
 	}
 	.p7
 	{
 		padding-top: 30px;
-		width: 900px;
+		width: 360px;
 	}
 	.p8
 	{
 		padding-top: 30px;
-		width: 900px;
+		width: 360px;
 	}
 	.p9
 	{
 		padding-top: 0px;
 		padding-bottom: 2px;
-		width: 900px;
+		width: 360px;
 	}
 	.p10
 	{
 		padding-top: 60px;
-		width: 900px;
+		width: 360px;
 	}
 	.p11
 	{
 		padding-top: 140px;
-		width: 900px;
+		width: 360px;
 	}
 	.p12
 	{
 		padding-top: 0px;
-		width: 900px;
+		width: 360px;
 	}
 }
