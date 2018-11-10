@@ -653,26 +653,36 @@
 		width: 370px;
 		height: 1800px;
 		margin-top: 75px;
-		margin-left: -5px;
+		margin-left: -15px;
 	}
 	.references
 	{
 		font-family: Orbitron;
 		line-height: 1.6;
-		color: royalblue;
+		color: CornflowerBlue;
 		width: 325px;
 		font-size: 30px;
 		font-weight: bold;
-		padding-top: ;
+		margin-left: -350px;
 	}
 	.worksCited1
 	{
-		float: left;
+		
 		font-family: Orbitron;
 		line-height: 1.6;
 		margin-left: 40px;
-		color: royalblue;
-		width: 350px;
+		color: CornflowerBlue;
+		width: 250px;
+		font-size: 16px;
+	}
+	.worksCited2
+	{
+		
+		font-family: Orbitron;
+		line-height: 1.6;
+		margin-left: 40px;
+		color: CornflowerBlue;
+		width: 250px;
 		font-size: 16px;
 	}
 	
