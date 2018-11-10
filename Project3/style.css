@@ -589,9 +589,9 @@
 	.textFrame
 	{
 		
-		border: 1px solid black;
+		/*border: 1px solid black;*/
 		width: 330px;
-		height: 10000px;
+		height: 15000px;
 		margin-left: 0px;
 		padding-top: 100px;
 	}
@@ -699,7 +699,7 @@
 	.pic2
 	{
 		
-		width: 100%;
+		width: 310px;
 		height: 200px;
 		margin-top: 400px;
 		margin-left: 0px;
