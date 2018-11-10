@@ -576,7 +576,7 @@
 		color: black;
 		background-color: white;
 		position: static;
-		margin: 0px 0px 0px -200px;
+		margin: 0px 0px 0px -600px;
 	}
 	
 	.whiteFrame
@@ -699,7 +699,7 @@
 	.pic2
 	{
 		
-		width: 360px;
+		width: 320px;
 		height: 200px;
 		margin-top: 400px;
 		margin-left: 0px;
