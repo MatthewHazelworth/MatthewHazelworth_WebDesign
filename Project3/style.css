@@ -576,7 +576,7 @@
 		color: black;
 		position: static;
 		background-color: white;
-		margin: 0px 0px 0px -550px;
+		margin: 0px 0px 0px -545px;
 	}
 	
 	.whiteFrame
@@ -653,7 +653,7 @@
 		width: 370px;
 		height: 2400px;
 		margin-top: 75px;
-		margin-left: -35px;
+		margin-left: 2px;
 	}
 	.references
 	{
