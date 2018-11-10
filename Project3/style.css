@@ -704,12 +704,12 @@
 	.pic2
 	{
 		
-		width: 360px;
+		width: 330px;
 		height: 300px;
-		margin-top: 300px;
-		margin-left: -50px;
+		margin-top: 330px;
+		margin-left: -20px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic3
 	{
@@ -820,6 +820,7 @@
 	}
 	.p6
 	{
+		
 		margin-top: 20px;
 		width: 898px;
 	}
