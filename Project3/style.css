@@ -182,25 +182,27 @@
 		background: url("");
 		background-size: cover;
 	}
+	/*
 	.pic6
 	{
 		float: left;
 		width: 450px;
 		margin-left: -60px;
 		margin-top: 10px;
-		background: url("");
+		background: url("http://x-tech.am/wp-content/uploads/2013/09/slide601.jpg");
 		background-size: cover;
 	}
 	.pic7
 	{
 		float: left;
-		width: 452px;
+		width: 450px;
 		padding-left: 0px;
 		padding-bottom: 14px;
 		margin-top: 23px;
-		background: url("");
+		background: url("https://cdn.mos.cms.futurecdn.net/000c57b9b1ecad1448e143a29c279910.jpg");
 		background-size: cover;
 	}
+	*/
 	.pic8
 	{
 		width: 900px; 
@@ -477,21 +479,9 @@
 		margin-top: -65px;
 		padding-bottom: 76px;
 	}
-	.pic6
-	{
-		float: left;
-		width: 450px;
-		margin-left: -60px;
-		margin-top: 10px;
-	}
-	.pic7
-	{
-		float: left;
-		width: 452px;
-		padding-left: 0px;
-		padding-bottom: 14px;
-		margin-top: 23px;
-	}
+	
+	
+	
 	h2
 	{
 		font-family: Orbitron;
@@ -592,7 +582,7 @@
 	.whiteFrame
 	{
 		width: 360px;
-		height: 7800px;
+		height: 10000px;
 		margin-left: 0px;
 		background-color: white;
 	}
@@ -601,7 +591,7 @@
 		
 		border: 1px solid black;
 		width: 360px;
-		height: 7800px;
+		height: 10000px;
 		margin-left: 0px;
 		padding-top: 100px;
 	}
@@ -746,29 +736,11 @@
 		background: url("");
 		background-size: contain;
 	}
-	.pic6
-	{
-		
-		width: 360px;
-		margin-left: 0px;
-		margin-top: 10px;
-		background: url("");
-		background-size: contain;
-	}
-	.pic7
-	{
-		
-		width: 360px;
-		padding-left: 0px;
-		padding-bottom: 14px;
-		margin-top: 23px;
-		background: url("");
-		background-size: contain;
-	}
+	
 	.pic8
 	{
 		width: 360px; 
-		height: 410px;
+		height: 210px;
 		padding-top: 10px;
 		background: url("http://www.pickaquoy.co.uk/wp-content/uploads/2013/05/Climbing-5-R.jpg");
 		background-size: contain;
@@ -776,7 +748,7 @@
 	.pic9
 	{
 		width: 360px;
-		height: 410px;
+		height: 210px;
 		padding-top: 100px;
 		margin-top: 120px;
 		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
