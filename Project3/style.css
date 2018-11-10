@@ -699,12 +699,12 @@
 	.pic2
 	{
 		
-		width: 270px;
+		width: 360px;
 		height: 200px;
 		margin-top: 400px;
 		margin-left: 0px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
-		background-size: contain;
+		background-size: cover;
 	}
 	.pic3
 	{
