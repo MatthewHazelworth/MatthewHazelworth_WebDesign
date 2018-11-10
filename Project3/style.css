@@ -707,7 +707,7 @@
 		width: 360px;
 		height: 300px;
 		margin-top: 300px;
-		margin-left: -100px;
+		margin-left: -50px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
 		background-size: cover;
 	}
@@ -717,9 +717,9 @@
 		width: 360px;
 		height:450px;
 		margin-top: 20px;
-		padding-bottom: 3px;
+		padding-bottom: ;
 		background: url("http://www.goodworklabs.com/wp-content/uploads/2017/02/6-How_VR_Is_Going_To_Change_the_Gaming_Industry.jpg");
-		background-size: cover;
+		background-size: contain;
 	}
 	.pic4
 	{
