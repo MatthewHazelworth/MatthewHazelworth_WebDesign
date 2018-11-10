@@ -708,10 +708,10 @@
 	.pic2
 	{
 		
-		width: 300px;
+		width: 270px;
 		height: 200px;
 		margin-top: 400px;
-		margin-left: -10px;
+		margin-left: 0px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
 		background-size: contain;
 	}
@@ -729,7 +729,7 @@
 	{
 		
 		width: 300px;
-		height: 350px;
+		height: 300px;
 		margin-left: 0px;
 		margin-top: ;
 		background: url("https://www.shape.com/sites/shape.com/files/styles/slide/public/media/woman-man-lifting-barbells_0.jpg");
