@@ -581,7 +581,7 @@
 	
 	.whiteFrame
 	{
-		width: 360px;
+		width: 340px;
 		height: 12000px;
 		margin-left: 0px;
 		background-color: white;
@@ -663,7 +663,7 @@
 		width: 325px;
 		font-size: 30px;
 		font-weight: bold;
-		margin-left: -100px;
+		margin-left: -10px;
 	}
 	.worksCited1
 	{
