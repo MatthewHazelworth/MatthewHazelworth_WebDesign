@@ -719,12 +719,12 @@
 	.pic4
 	{
 		
-		width: 270px;
+		width: 360px;
 		height: 200px;
 		margin-left: 0px;
 		margin-top: ;
 		background: url("https://www.shape.com/sites/shape.com/files/styles/slide/public/media/woman-man-lifting-barbells_0.jpg");
-		background-size: contain;
+		background-size: cover;
 	}
 	.pic5
 	{
@@ -798,7 +798,7 @@
 	.p6
 	{
 		
-		margin-top: 20px;
+		margin-top: 15px;
 		width: 360px;
 	}
 	.p7
