@@ -588,8 +588,6 @@
 	}
 	.textFrame
 	{
-		
-		border: 1px solid black;
 		width: 330px;
 		height: 15000px;
 		margin-left: 0px;
@@ -750,7 +748,7 @@
 	{
 		width: 325px;
 		height: 70px;
-		margin-top: 120px;
+		margin-top: 80px;
 		background: url("http://ocrampal.com/content/images/2016/11/mountainclimbing-PG.jpg");
 		background-size: contain;
 	}
@@ -824,7 +822,7 @@
 	}
 	.p11
 	{
-		margin-top: -100px;
+		margin-top: -130px;
 		width: 100%;
 	}
 	.p12
