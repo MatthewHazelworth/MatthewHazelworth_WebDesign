@@ -14,7 +14,10 @@
 		margin-left: -10px;
 		margin-top: -10px;
 		position: fixed;
-		
+		font-family: Righteous;
+		color: white;
+		padding: 0px 0px 0px 550px;
+		font-size: 44px
 	}
 	.logo
 	{
@@ -25,18 +28,7 @@
 		margin-left: 150px;
 		
 	}
-	.sportsTech
-	{
-		float: left;
-		width: 400px;
-		height: 100px;
-		color: white;
-		font-size: 44px;
-		margin: 0px 0px 0px 550px;
-		padding-top: 15px;
-		font-family: Righteous;
 
-	}
 	.whiteFrame
 	{
 		width: 1100px;
@@ -321,10 +313,16 @@
 	.titleBanner
 	{
 		float: absolute;
-		background-color: white;
-		width: 360px;
-		height: ;
-		
+		background-color: black;
+		width: 1535px;
+		height: 100px;
+		margin-left: -10px;
+		margin-top: -10px;
+		position: fixed;
+		font-family: Righteous;
+		color: white;
+		padding: 0px 0px 0px 550px;
+		font-size: 44px
 	}
 	.sportsTech
 	{
@@ -636,7 +634,7 @@
 	.motionGaming
 	{
 		float: left;
-		margin-top: 125px;
+		margin-top: 25px;
 		height: 100px;
 		width: 360px;
 	}
@@ -709,7 +707,7 @@
 	{
 		
 		width: 300px;
-		height: 250px;
+		height: 200px;
 		margin-top: 400px;
 		margin-left: -10px;
 		background: url("https://shawglobalnews.files.wordpress.com/2018/03/obesity2.jpg");
@@ -719,7 +717,7 @@
 	{
 		
 		width: 360px;
-		height:250px;
+		height:200px;
 		margin-top: 20px;
 		padding-bottom: ;
 		background: url("http://www.goodworklabs.com/wp-content/uploads/2017/02/6-How_VR_Is_Going_To_Change_the_Gaming_Industry.jpg");
