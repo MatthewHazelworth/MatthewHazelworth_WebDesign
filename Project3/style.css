@@ -650,7 +650,7 @@
 	{
 		float: absolute;
 		background-color: black;
-		width: 360px;
+		width: 370px;
 		height: 1000px;
 		margin-top: 75px;
 		margin-left: 50px;
@@ -663,16 +663,16 @@
 		width: 325px;
 		font-size: 40px;
 		font-weight: bold;
-		padding-top: 75px;
+		padding-top: ;
 	}
 	.worksCited1
 	{
 		float: left;
 		font-family: Orbitron;
 		line-height: 1.6;
-		margin-left: 10px;
+		margin-left: 40px;
 		color: white;
-		width: 100px;
+		width: 150px;
 		font-size: 16px;
 	}
 	.worksCited2
@@ -680,9 +680,9 @@
 		float: left;
 		font-family: Orbitron;
 		line-height: 1.6;
-		margin-left: 10px;
+		margin-left: 40px;
 		color: white;
-		width: 100px;
+		width: 150px;
 		font-size: 16px;
 	}
 	.pic1
