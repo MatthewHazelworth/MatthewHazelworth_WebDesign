@@ -1,0 +1,99 @@
+body 
+{
+    margin: 0;
+    color: white;
+}
+#container 
+{
+ 
+}
+.box 
+{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    transition: all 2s ease;
+}
+.purpleBG 
+{
+    background-color: rebeccapurple;
+}
+.blueBG 
+{
+    background-color: DeepSkyBlue;
+}
+.redBG 
+{
+    background-color: crimson;
+}
+.redC
+ {
+    color: tomato;
+}
+.number5
+{
+	width: 500px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+}
+.number5:hover
+{
+	background-image: url("http://pixeljoint.com/files/icons/full/bioshockinfintiewallpaperfinishedsmall.png");
+	background-size: cover;
+}
+.number4
+{
+	width: 500px;
+	height: 290px;
+	border: 10px solid white;
+	margin: auto;
+}
+.number4:hover
+{
+	background-image: url("https://u.kanobu.ru/longreads/2014/2/2/4eda4d97-5a16-4691-9c87-e06bb3f42257.jpg");
+	background-size: cover;
+}
+h1, p 
+{
+    margin: 0;
+}
+h1 
+{
+    font-size: 60px;
+    text-align: center;
+    padding: 45vh;
+    font-family: Audiowide;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: all 2s ease;
+	color: black;
+}
+.bigger
+ {
+    font-size: 100px;
+    padding-top: 32vh;
+}
+.jqClick
+ {
+    cursor: pointer;
+}
+.jqHover 
+{
+    cursor: progress;
+}
+p
+{
+    font-size: 40px;
+    text-align: center;
+    padding: 25vh;
+    font-family: sans-serif;
+}
+.numbers 
+{
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+	font-family: Black Ops One;
+}
