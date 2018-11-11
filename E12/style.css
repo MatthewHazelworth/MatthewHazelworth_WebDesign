@@ -1,6 +1,6 @@
 body 
 {
-    background-color: white;
+    background-color: White;
     transition: all 3s ease
 }
 p 
@@ -32,9 +32,11 @@ p
 }
 .slide
 {
-	width: 400px;
+	width: 600px;
 	height: 300px;
-    background-color: white;
+    background-color: White;
+	border: 12px solid WhiteSmoke;
+	box-shadow: 20px 20px 50px grey;  
 	position: absolute;
     left: 0;
     top: 0;
