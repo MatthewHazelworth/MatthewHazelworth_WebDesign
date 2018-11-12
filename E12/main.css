@@ -14,26 +14,48 @@ body
     margin: 0;
     transition: all 2s ease;
 }
-.purpleBG 
+.purple
 {
-    background-color: rebeccapurple;
+    background: url("http://rebootgaminglv.com/wp-content/uploads/reboot-videogaminglounge-lasvegas-07.jpg");
 }
-.blueBG 
+.blue
 {
     background-color: DeepSkyBlue;
+	/*background: url("https://www.micheleknight.com/wp-content/uploads/Depositphotos_22305263_s.jpg");*/
 }
-.redBG 
+.red
 {
     background-color: crimson;
+	/*background: url("https://assets.babycenter.com/ims/2015/09/93573358_wide.jpg?width=600");*/
 }
-.redC
- {
+/*.redC
+{
     color: tomato;
+	background: url("https://assets.babycenter.com/ims/2015/09/93573358_wide.jpg?width=600");
+}*/
+.white
+{
+	color: white;
+	background-color: black;
+	/*background: url("");*/
+}
+.yellow
+{
+	color: white;
+	background-color: Gold;
+	/*background: url("");*/
+}
+.orange
+{
+	background-color: tomato;
+	/*background: url("");*/
+	color: white;
 }
 .number5
 {
 	width: 500px;
 	height: 300px;
+	background-color: black;
 	border: 10px solid white;
 	margin: auto;
 }
@@ -45,13 +67,52 @@ body
 .number4
 {
 	width: 500px;
-	height: 290px;
+	height: 300px;
 	border: 10px solid white;
 	margin: auto;
 }
 .number4:hover
 {
 	background-image: url("https://u.kanobu.ru/longreads/2014/2/2/4eda4d97-5a16-4691-9c87-e06bb3f42257.jpg");
+	background-size: cover;
+}
+.number3
+{
+	width: 500px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	color: ;
+}
+.number3:hover
+{
+	background-image: url("https://i.imgur.com/WkILOsJ.png");
+	background-size: cover;
+}
+.number2
+{
+	width: 500px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	color: ;
+}
+.number2:hover
+{
+	background-image: url("http://a.cdnv2.artofthetitle.com/assets/sm/upload/ty/mq/cn/n5/u4_t.jpg");
+	background-size: cover;
+}
+.number1
+{
+	width: 500px;
+	height: 300px;
+	border: 10px solid white;
+	margin: auto;
+	color: ;
+}
+.number1:hover
+{
+	background-image: url("https://www.rocketchainsaw.com.au/wp-content/uploads/2017/06/God-of-War-Logo.jpg");
 	background-size: cover;
 }
 h1, p 
@@ -67,7 +128,7 @@ h1
     text-transform: uppercase;
     letter-spacing: 2px;
     transition: all 2s ease;
-	color: black;
+	color: gold;
 }
 .bigger
  {
