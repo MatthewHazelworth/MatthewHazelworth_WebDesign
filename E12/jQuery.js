@@ -19,6 +19,7 @@ function demoFunction() {
     $('.jqClick').click(function() {
         $('.header').toggleClass('bigger');
         $('.jqClick').toggleClass('border');
+		 $('.number5').toggleClass('bigger');
     })
     $('.jqHover').hover(function() {
         $("#numberFive").toggleClass('redBG');
