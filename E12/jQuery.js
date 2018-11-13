@@ -1,6 +1,7 @@
 $(document).ready(function() {
     // run function on initial page load
     demoFunction();
+	
     // vPosH1();
  
     // run function on resize of the window
@@ -16,13 +17,23 @@ $(document).ready(function() {
  
 // mouse event link https://api.jquery.com/category/events/mouse-events/
 function demoFunction() {
-    $('.jqClick').click(function() {
-        $('.header').toggleClass('bigger');
-        $('.jqClick').toggleClass('border');
-		 $('.number5').toggleClass('bigger');
+    $('.blue').click(function() {
+        $('.blue').toggleClass('bioshockInfinite');	        
     })
-    $('.jqHover').hover(function() {
-        $("#numberFive").toggleClass('redBG');
+	$('.red').click(function() {
+        $('.red').toggleClass('witcher');	        
+    })
+	$('.white').click(function() {
+        $('.white').toggleClass('bloodborne');	        
+    })
+	$('.yellow').click(function() {
+        $('.yellow').toggleClass('uncharted');	        
+    })
+	$('.orange').click(function() {
+        $('.orange').toggleClass('god');	        
+    })
+    $('.numbers').hover(function() {
+        $(".numbers").toggleClass('blackText');
     })
 }
  

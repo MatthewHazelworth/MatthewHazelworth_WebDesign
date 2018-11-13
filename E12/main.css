@@ -35,8 +35,8 @@ body
 }*/
 .white
 {
-	color: white;
-	background-color: black;
+	
+	background-color: white;
 	/*background: url("");*/
 }
 .yellow
@@ -56,22 +56,21 @@ body
 	width: 500px;
 	height: 300px;
 	background-color: black;
-	border: 10px solid white;
 	margin: auto;
 }
-.number5:hover
+.bioshockInfinite
 {
 	background-image: url("http://pixeljoint.com/files/icons/full/bioshockinfintiewallpaperfinishedsmall.png");
 	background-size: cover;
 }
+
 .number4
 {
 	width: 500px;
 	height: 300px;
-	border: 10px solid white;
 	margin: auto;
 }
-.number4:hover
+.witcher
 {
 	background-image: url("https://u.kanobu.ru/longreads/2014/2/2/4eda4d97-5a16-4691-9c87-e06bb3f42257.jpg");
 	background-size: cover;
@@ -80,11 +79,9 @@ body
 {
 	width: 500px;
 	height: 300px;
-	border: 10px solid white;
 	margin: auto;
-	color: ;
 }
-.number3:hover
+.bloodborne
 {
 	background-image: url("https://i.imgur.com/WkILOsJ.png");
 	background-size: cover;
@@ -97,7 +94,7 @@ body
 	margin: auto;
 	color: ;
 }
-.number2:hover
+.uncharted
 {
 	background-image: url("http://a.cdnv2.artofthetitle.com/assets/sm/upload/ty/mq/cn/n5/u4_t.jpg");
 	background-size: cover;
@@ -110,7 +107,7 @@ body
 	margin: auto;
 	color: ;
 }
-.number1:hover
+.god
 {
 	background-image: url("https://www.rocketchainsaw.com.au/wp-content/uploads/2017/06/God-of-War-Logo.jpg");
 	background-size: cover;
@@ -157,4 +154,18 @@ p
     letter-spacing: 2px;
     font-weight: bold;
 	font-family: Black Ops One;
+}
+.blackText
+{
+	margin-left: 100px;
+}
+h2
+{
+	font-size: 300px;
+    text-align: center;
+    padding: 15vh;
+    font-family: Audiowide;
+    text-transform: uppercase;
+    transition: all 2s ease;
+	color: gold;
 }
