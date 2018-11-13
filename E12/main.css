@@ -58,9 +58,9 @@ body
 	background-color: black;
 	margin: auto;
 }
-.bioshockInfinite
+.metal
 {
-	background-image: url("http://pixeljoint.com/files/icons/full/bioshockinfintiewallpaperfinishedsmall.png");
+	background-image: url("https://wallpapermemory.com/uploads/550/metal-gear-solid-5-v-the-phantom-pain-mgsv-5-wallpaper-hd-2560x1440-460449.jpg");
 	background-size: cover;
 }
 
@@ -158,6 +158,10 @@ p
 .blackText
 {
 	margin-left: 100px;
+}
+.opacityText
+{
+	opacity: 0;
 }
 h2
 {

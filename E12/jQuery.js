@@ -18,7 +18,7 @@ $(document).ready(function() {
 // mouse event link https://api.jquery.com/category/events/mouse-events/
 function demoFunction() {
     $('.blue').click(function() {
-        $('.blue').toggleClass('bioshockInfinite');	        
+        $('.blue').toggleClass('metal');	        
     })
 	$('.red').click(function() {
         $('.red').toggleClass('witcher');	        
@@ -34,6 +34,9 @@ function demoFunction() {
     })
     $('.numbers').hover(function() {
         $(".numbers").toggleClass('blackText');
+    })
+	$('.numbers').dblclick(function() {
+        $(".numbers").toggleClass('opacityText');
     })
 }
  
