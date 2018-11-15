@@ -63,7 +63,7 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-color: FireBrick;
+		background-image: linear-gradient(FireBrick, RoyalBlue);
 		color: white;
 		text-align: center;
 		font-size: 75px;
@@ -81,7 +81,7 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-color: RoyalBlue;
+		background-image: linear-gradient(RoyalBlue, DarkSlateBlue);
 		color: white;
 		text-align: center;
 		font-size: 75px;
@@ -99,7 +99,7 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-color: DarkSlateBlue;
+		background-image: linear-gradient(DarkSlateBlue, Gold);
 		color: white;
 		text-align: center;
 		font-size: 75px;
@@ -117,7 +117,7 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-color: Gold;
+		background-image: linear-gradient(Gold, Tomato);
 		color: white;
 		text-align: center;
 		font-size: 75px;
