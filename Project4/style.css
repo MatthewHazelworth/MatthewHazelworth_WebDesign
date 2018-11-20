@@ -147,7 +147,7 @@
 		font-size: 50px;
 		font-family: Notable;
 		margin: 190px 0px 0px -10px;
-		width: 563px;
+		width: 350px;
 	}
 	h2
 	{
@@ -165,7 +165,7 @@
 	.title
 	{
 		float: absolute;
-		width: 500px;
+		width: 350px;
 		height: 765px;
 		font-family: ;
 		margin: 10px 0px 0px 40px;
@@ -198,7 +198,7 @@
 	.guitar
 	{
 		height: 710px;
-		width: 840px;
+		width: 350px;
 		background-image: linear-gradient(FireBrick, RoyalBlue);
 		color: white;
 		text-align: center;
@@ -209,14 +209,14 @@
 	.guitarSlide
 	{
 		height: 300px;
-		width: 500px;
+		width: 350px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
 	}
 	.drum
 	{
 		height: 710px;
-		width: 840px;
+		width: 350px;
 		background-image: linear-gradient(RoyalBlue, DarkSlateBlue);
 		color: white;
 		text-align: center;
@@ -227,14 +227,14 @@
 	.drumSlide
 	{
 		height: 300px;
-		width: 500px;
+		width: 350px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
 	}
 	.piano
 	{
 		height: 710px;
-		width: 840px;
+		width: 350px;
 		background-image: linear-gradient(DarkSlateBlue, Gold);
 		color: white;
 		text-align: center;
@@ -245,14 +245,14 @@
 	.pianoSlide
 	{
 		height: 300px;
-		width: 500px;
+		width: 350px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
 	}
 	.mic
 	{
 		height: 710px;
-		width: 840px;
+		width: 350px;
 		background-image: linear-gradient(Gold, FireBrick);
 		color: white;
 		text-align: center;
@@ -263,7 +263,7 @@
 	.micSlide
 	{
 		height: 300px;
-		width: 500px;
+		width: 350px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
 	}
