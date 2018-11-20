@@ -117,7 +117,143 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-image: linear-gradient(Gold, Tomato);
+		background-image: linear-gradient(Gold, FireBrick);
+		color: white;
+		text-align: center;
+		font-size: 75px;
+		font-family: Monoton;
+		padding-top: 50px;
+	}
+	.micSlide
+	{
+		height: 300px;
+		width: 500px;
+		border: 10px solid white;
+		margin: 160px 0px 0px 160px;
+	}
+	@media only screen and (max-width: 768px)
+	
+	@media only screen and (max-width: 400px)
+	*
+	{
+		box-sizing: border-box;
+	}
+	div
+	{
+		float: left;
+	}
+	h1
+	{
+		font-size: 50px;
+		font-family: Notable;
+		margin: 190px 0px 0px -10px;
+		width: 563px;
+	}
+	h2
+	{
+		font-size: 25px;
+		color: black;
+		font-family: Montserrat;
+	}
+	
+	h3
+	{
+		font-size: 25px;
+		font-family: Montserrat;
+		color: black;
+	}
+	.title
+	{
+		float: absolute;
+		width: 500px;
+		height: 765px;
+		font-family: ;
+		margin: 10px 0px 0px 40px;
+		color: black;
+		background-color: white;
+		position: fixed;
+		padding-left: -20px;
+	}	
+
+	.bodyFrame
+	{
+		width: 800px;
+		height: 500px;
+		font-family: ;
+		font-size: 18px;
+		margin: 0px 0px 0px 535px;
+		padding-left: -60px;
+		padding-left: 150px;
+		line-height: 1.2;
+		background-color: white;
+	}
+	body
+	{
+		background-color: white;
+	}
+	p
+	{
+		padding-top: 5px;
+	}
+	.guitar
+	{
+		height: 710px;
+		width: 840px;
+		background-image: linear-gradient(FireBrick, RoyalBlue);
+		color: white;
+		text-align: center;
+		font-size: 75px;
+		font-family: Monoton;
+		padding-top: 50px;
+	}
+	.guitarSlide
+	{
+		height: 300px;
+		width: 500px;
+		border: 10px solid white;
+		margin: 160px 0px 0px 160px;
+	}
+	.drum
+	{
+		height: 710px;
+		width: 840px;
+		background-image: linear-gradient(RoyalBlue, DarkSlateBlue);
+		color: white;
+		text-align: center;
+		font-size: 75px;
+		font-family: Monoton;
+		padding-top: 50px;
+	}
+	.drumSlide
+	{
+		height: 300px;
+		width: 500px;
+		border: 10px solid white;
+		margin: 160px 0px 0px 160px;
+	}
+	.piano
+	{
+		height: 710px;
+		width: 840px;
+		background-image: linear-gradient(DarkSlateBlue, Gold);
+		color: white;
+		text-align: center;
+		font-size: 75px;
+		font-family: Monoton;
+		padding-top: 50px;
+	}
+	.pianoSlide
+	{
+		height: 300px;
+		width: 500px;
+		border: 10px solid white;
+		margin: 160px 0px 0px 160px;
+	}
+	.mic
+	{
+		height: 710px;
+		width: 840px;
+		background-image: linear-gradient(Gold, FireBrick);
 		color: white;
 		text-align: center;
 		font-size: 75px;
