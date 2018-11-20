@@ -28,11 +28,11 @@
 	}
 	.title
 	{
-		float: absolute;
-		width: 500px;
+		float: left;
+		width: 645px;
 		height: 765px;
 		font-family: ;
-		margin: 10px 0px 0px 40px;
+		margin: -10px 0px 0px 40px;
 		color: black;
 		background-color: white;
 		position: fixed;
@@ -45,7 +45,7 @@
 		height: 500px;
 		font-family: ;
 		font-size: 18px;
-		margin: 0px 0px 0px 535px;
+		margin: -10px 0px 0px 535px;
 		padding-left: -60px;
 		padding-left: 150px;
 		line-height: 1.2;
@@ -53,7 +53,7 @@
 	}
 	body
 	{
-		background-color: white;
+		background-color: black;
 	}
 	p
 	{
@@ -171,7 +171,6 @@
 		margin: 10px 0px 0px 40px;
 		color: black;
 		background-color: white;
-		position: fixed;
 		padding-left: -20px;
 	}	
 
