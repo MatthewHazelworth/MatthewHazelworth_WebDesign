@@ -1,0 +1,164 @@
+body
+{
+	/*background-image: linear-gradient(to right, Black, FireBrick, Tomato , Pink, Tomato , FireBrick, Black);*/
+	background-image: url("https://wallpapercave.com/wp/tZAh2fj.jpg");
+	background-size: cover;
+}
+.container
+{
+	margin: 0 auto;
+	width: 900px;
+	text-align: center;
+}
+h1
+{
+	text-align: center;
+	font-family: Righteous;
+	font-size: 45px;
+	color: white;
+}
+input
+ {
+    width: 50vw;
+    height: 40px;
+    margin-top: 50px;
+    font-size: 30px;
+    padding: 25px 0;
+    text-align: center;
+}
+.button
+{
+	text-align: center;
+	margin: 0 auto;
+	width: 100px;
+	height: 45px;
+	background-color: black;
+	color: white;
+}
+.button:hover
+{
+	cursor: pointer;
+	
+}
+.button p 
+{
+    text-align: center;
+   font-family: Righteous;
+	font-size: 18px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.picBox
+{
+	text-align: center;
+	border: 5px solid black;
+	width: 750px;
+	height: 375px;
+	margin: 0 auto;
+}
+.lamborghini
+{
+	background-image: url("https://ic1.maxabout.us/autos/cars_india//L/2017/3/lamborghini-aventador-s.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+	
+}
+.corvette
+{
+	background-image: url("https://media.chevrolet.com/dld/content/dam/Media/images/US/Vehicles/Chevrolet/Cars/Corvette_Z06/2015/Product/2015-Chevrolet-CorvetteZ06-185.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.mustang
+{
+	background-image: url("https://fortunedotcom.files.wordpress.com/2015/09/shelbygt350_06_hr.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.camaro
+{
+	background-image: url("http://images.gtcarlot.com/pictures/35137139.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.viper
+{
+	background-image: url("https://thunderalley.eu/wp-content/uploads/2017/08/viper.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.chevelle
+{
+	background-image: url("https://stmed.net/sites/default/files/chevrolet-chevelle-ss-wallpapers-31969-2193896.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.fenyr
+{
+	background-image: url("http://s2.glbimg.com/-HYcDgzQK4yZau29b9jZx7qYL6o=/620x350/e.glbimg.com/og/ed/f/original/2015/11/10/w-motors-fenyr-supersport-01.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.bmwI8
+{
+	background-image: url("https://s2.paultan.org/image/2015/04/BMW-i8-Milan-2-630x369.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.audi
+{
+	background-image: url("https://s.aolcdn.com/commerce/autodata/images/USC70AUC171B021001.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.veyron
+{
+	background-image: url("https://assets.bugatti.com/fileadmin/_processed_/sei/p64/se-image-1f3f5d2e110010011345677b2e588b38.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.ferrari
+{
+	background-image: url("https://images.clarin.com/2018/02/22/Bycd_KhDG_1256x620__1.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.ChittyChittyBangBang
+{
+	background-image: url("http://res.cloudinary.com/dwh6m5mbn/image/upload/v1528364338/News/General/image1.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.charger
+{
+	background-image: url("https://pictures.topspeed.com/IMG/jpg/201609/dodge-charger-srt-he-5.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.superbee
+{
+	background-image: url("https://i.pinimg.com/originals/cb/0d/19/cb0d190deefa5da4cfb32ad73630b00c.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
+.aston
+{
+	background-image: url("https://www.topspeed.sk/userfiles/articles/16-08/9090/1439725395-aston.martin.dp.100.jpg");
+	background-size: cover;
+	width: 750px;
+	height: 375px;
+}
