@@ -64,7 +64,7 @@ function carGuess() {
 	}
 	else if(car == 13)
 	{
-		$('.picBox').addClass('super bee');
+		$('.picBox').addClass('superbee');
 	}
 	else if(car == 14)
 	{
