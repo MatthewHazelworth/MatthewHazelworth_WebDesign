@@ -59,7 +59,8 @@ input
 .lamborghini
 {
 	background-image: url("https://ic1.maxabout.us/autos/cars_india//L/2017/3/lamborghini-aventador-s.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 	
@@ -67,98 +68,120 @@ input
 .corvette
 {
 	background-image: url("https://media.chevrolet.com/dld/content/dam/Media/images/US/Vehicles/Chevrolet/Cars/Corvette_Z06/2015/Product/2015-Chevrolet-CorvetteZ06-185.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .mustang
 {
 	background-image: url("https://fortunedotcom.files.wordpress.com/2015/09/shelbygt350_06_hr.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .camaro
 {
 	background-image: url("http://images.gtcarlot.com/pictures/35137139.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .viper
 {
 	background-image: url("https://thunderalley.eu/wp-content/uploads/2017/08/viper.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .chevelle
 {
-	background-image: url("https://stmed.net/sites/default/files/chevrolet-chevelle-ss-wallpapers-31969-2193896.jpg");
-	background-size: cover;
+	background-image: url("https://dealeraccelerate-all.s3.amazonaws.com/streetside/images/1/1/9/9/8/11998/197056_b71d3e58c9_low_res.JPG");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .fenyr
 {
 	background-image: url("http://s2.glbimg.com/-HYcDgzQK4yZau29b9jZx7qYL6o=/620x350/e.glbimg.com/og/ed/f/original/2015/11/10/w-motors-fenyr-supersport-01.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .bmwI8
 {
 	background-image: url("https://s2.paultan.org/image/2015/04/BMW-i8-Milan-2-630x369.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .audi
 {
 	background-image: url("https://s.aolcdn.com/commerce/autodata/images/USC70AUC171B021001.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .veyron
 {
 	background-image: url("https://assets.bugatti.com/fileadmin/_processed_/sei/p64/se-image-1f3f5d2e110010011345677b2e588b38.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .ferrari
 {
 	background-image: url("https://images.clarin.com/2018/02/22/Bycd_KhDG_1256x620__1.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .ChittyChittyBangBang
 {
 	background-image: url("http://res.cloudinary.com/dwh6m5mbn/image/upload/v1528364338/News/General/image1.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .charger
 {
 	background-image: url("https://pictures.topspeed.com/IMG/jpg/201609/dodge-charger-srt-he-5.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .superbee
 {
 	background-image: url("https://dealeraccelerate-all.s3.amazonaws.com/smt/images/7/0/4/704/16663_d565579163c6_low_res.jpg");
-	background-size: cover;
+	background-size: 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
 .aston
 {
 	background-image: url("https://www.topspeed.sk/userfiles/articles/16-08/9090/1439725395-aston.martin.dp.100.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
+	width: 750px;
+	height: 375px;
+}
+.maserati
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Maserati_Alfieri_-_2015_NAIAS_%2816087661039%29_%28cropped%29.jpg/1280px-Maserati_Alfieri_-_2015_NAIAS_%2816087661039%29_%28cropped%29.jpg");
+	background-size: 100% 100%;
+	 background-repeat: no-repeat;
 	width: 750px;
 	height: 375px;
 }
