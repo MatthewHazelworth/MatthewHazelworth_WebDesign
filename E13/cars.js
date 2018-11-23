@@ -4,7 +4,7 @@ $(document).ready(function() {
 });
  
 function carGuess() {
-    var carArray = ["Lamborghini","Corvette","Mustang","Camaro","Viper","Chevelle","Fenyr","I8","R8","Veyron", "Ferrari", "Chitty Chitty Bang Bang", "Charger", "Super Bee", "DP 100", "Alfieri"];
+    var carArray = ["Lamborghini","Corvette","Mustang","Camaro","Viper","Chevelle","W Motors","I8","R8","Veyron", "Ferrari", "Chitty Chitty Bang Bang", "Charger", "Super Bee", "DP 100", "Alfieri"];
     var car = Math.floor(Math.random() * carArray.length);
     var stripped = carArray[car].toLowerCase();
 	var stripped = carArray[car].toUpperCase();
