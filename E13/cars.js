@@ -4,10 +4,9 @@ $(document).ready(function() {
 });
  
 function carGuess() {
-    var carArray = ["Lamborghini","Corvette","Mustang","Camaro","Viper","Chevelle","W Motors","I8","R8","Veyron", "Ferrari", "Chitty Chitty Bang Bang", "Charger", "Super Bee", "DP 100", "Alfieri"];
+    var carArray = ["Lamborghini","Corvette","Mustang","Camaro","Viper","Chevelle","Fenyr","I8","R8","Veyron", "Ferrari", "Chitty Chitty Bang Bang", "Charger", "Super Bee", "DP 100", "Alfieri", "570S Spider"];
     var car = Math.floor(Math.random() * carArray.length);
     var stripped = carArray[car].toLowerCase();
-	var stripped = carArray[car].toUpperCase();
     console.log(carArray[car]);
     console.log(stripped);
     //$('body').css('background-image', carArray[car]);
@@ -71,9 +70,13 @@ function carGuess() {
 	{
 		$('.picBox').addClass('aston martin');
 	}
-		else if(car == 15)
+	else if(car == 15)
 	{
 		$('.picBox').addClass('maserati');
+	}
+	else if(car == 16)
+	{
+		$('.picBox').addClass('mclaren');
 	}
     $('#submit').click(function() {
         var guess = $('input').val();
