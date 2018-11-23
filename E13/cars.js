@@ -4,9 +4,10 @@ $(document).ready(function() {
 });
  
 function carGuess() {
-    var carArray = ["lamborghini","corvette","mustang","camaro","viper","chevelle","fenyr","bmwI8","audi","veyron", "ferrari", "chitty chitty bang bang", "charger", "super bee", "aston martin", "maserati"];
+    var carArray = ["Lamborghini","Corvette","Mustang","Camaro","Viper","Chevelle","Fenyr","I8","R8","Veyron", "Ferrari", "Chitty Chitty Bang Bang", "Charger", "Super Bee", "DP 100", "Alfieri"];
     var car = Math.floor(Math.random() * carArray.length);
     var stripped = carArray[car].toLowerCase();
+	var stripped = carArray[car].toUpperCase();
     console.log(carArray[car]);
     console.log(stripped);
     //$('body').css('background-image', carArray[car]);
