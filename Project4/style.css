@@ -1,32 +1,31 @@
-	*
-	{
-		box-sizing: border-box;
-	}
+
 	div
 	{
 		float: left;
 	}
 	h1
 	{
-		font-size: 50px;
-		font-family: Notable;
-		margin: 35px 0px 0px -10px;
+		font-size: 70px;
+		font-family: Poppins;
+		font-weight: bold;
+		margin: 35px 0px 0px 45px;
 		width: 575px;
 	}
 	h2
 	{
 		font-size: 25px;
 		color: black;
-		font-family: Notable;
+		font-family: Poppins;
+		margin: 0px 0px 0px 51px
 	}
 
 	.title
 	{
 		float: left;
-		width: 645px;
+		width: 712px;
 		height: 765px;
 		font-family: ;
-		margin: -10px 0px 0px 40px;
+		margin: -10px 0px 0px -8px;
 		color: black;
 		background-color: white;
 		position: fixed;
@@ -35,15 +34,75 @@
 
 	.bodyFrame
 	{
-		width: 800px;
+		width: 820px;
 		height: 500px;
-		font-family: ;
-		font-size: 18px;
 		margin: -10px 0px 0px 535px;
 		padding-left: -60px;
 		padding-left: 150px;
 		line-height: 1.2;
 		background-color: white;
+	}
+	.hamburger
+	{
+		margin-top: 50px;
+		/*border: 5px solid black;*/
+		height: 25px;
+`		width: 400px;
+	}
+	.about
+	{
+		float: left;
+		height: 25px;
+		width: 80px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+	}
+	.guitars
+	{
+		float: left;
+		height: 25px;
+		width: 80px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+	}
+	.drums
+	{
+		float: left;
+		height: 25px;
+		width: 80px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+	}
+	.pianos
+	{
+		float: left;
+		height: 25px;
+		width: 80px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+	}
+	.mics
+	{
+		float: left;
+		height: 25px;
+		width: 80px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+	}
+	.about:hover, .guitars:hover, .drums:hover, .pianos:hover, .mics:hover
+	{
+		background-color: DimGray;
+		cursor: pointer;
 	}
 	body
 	{
@@ -57,32 +116,33 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-image: linear-gradient(FireBrick, RoyalBlue);
+		background-color: FireBrick;
 		color: white;
 		text-align: center;
 		font-size: 75px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
-	.guitarSlide
+	.guitarIcon
 	{
 		height: 300px;
 		width: 500px;
-		border: 10px solid white;
-		margin: 160px 0px 0px 160px;
+		/*border: 10px solid white;*/
+		margin: 100px 0px 0px 160px;
+		
 	}
 	.drum
 	{
 		height: 710px;
 		width: 840px;
-		background-image: linear-gradient(RoyalBlue, DarkSlateBlue);
+		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
 		font-size: 75px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
-	.drumSlide
+	.drumIcon
 	{
 		height: 300px;
 		width: 500px;
@@ -93,14 +153,14 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-image: linear-gradient(DarkSlateBlue, Gold);
+		background-color: DarkSlateBlue;
 		color: white;
 		text-align: center;
 		font-size: 75px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
-	.pianoSlide
+	.pianoIcon
 	{
 		height: 300px;
 		width: 500px;
@@ -111,20 +171,65 @@
 	{
 		height: 710px;
 		width: 840px;
-		background-image: linear-gradient(Gold, FireBrick);
+		background-color: Gold;
 		color: white;
 		text-align: center;
 		font-size: 75px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
-	.micSlide
+	.micIcon
 	{
 		height: 300px;
 		width: 500px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
 	}
+	.menu 
+	{
+		display: inline-block;
+		cursor: pointer;
+		width: 0px;
+		margin-left: 54px;
+	}
+	
+	li
+	{
+		display: inline;
+	}
+	ul
+	{
+		display: none;
+	}
+	
+	.bar1, .bar2, .bar3 
+	{
+		width: 35px;
+		height: 5px;
+		background-color: black;
+		margin: 3px 0;
+		transition: 0.4s;
+	}
+
+	.change .bar1 
+	{
+		-webkit-transform: rotate(-45deg) translate(-9px, 6px);
+		transform: rotate(-45deg) translate(-9px, 6px);
+	}
+
+	.change .bar2
+	{
+		opacity: 0;
+	}
+
+	.change .bar3 
+	{
+		-webkit-transform: rotate(45deg) translate(-8px, -8px);
+		transform: rotate(45deg) translate(-8px, -8px);
+	}
+	
+/*	@media only screen and (max-width: 1200px)
+
 	@media only screen and (max-width: 768px)
 	
 	@media only screen and (max-width: 400px)
@@ -260,4 +365,4 @@
 		width: 500px;
 		border: 10px solid white;
 		margin: 160px 0px 0px 160px;
-	}
+	}*/
