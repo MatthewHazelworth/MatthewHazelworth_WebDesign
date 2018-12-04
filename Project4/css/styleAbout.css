@@ -326,7 +326,7 @@ ul
 	.homeBar
 	{
 		margin-top: 25px;
-		margin-left: 50px;
+		margin-left: 25px;
 		height: 25px;
 	`	width: 400px;
 	}
@@ -334,6 +334,7 @@ ul
 	{
 		width: 360px;
 		height: 100px;
+		padding-top: -20px;
 		background-color: black;
 		color: white;
 		text-align: center;
@@ -352,7 +353,7 @@ ul
 	}
 	.aboutUs
 	{
-		margin: 200px 0px 0px 0px;
+		margin: 300px 0px 0px 0px;
 		text-align: left;
 		font-family: Poppins;
 		font-size: 45px; 
