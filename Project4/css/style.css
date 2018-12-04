@@ -213,17 +213,19 @@ ul
 	}
 	h1
 	{
-		font-size: 70px;
+		font-size: 30px;
 		font-family: Poppins;
 		font-weight: bold;
-		margin: 35px 0px 0px 45px;
-		width: 575px;
+		/*margin: 35px 0px 0px 45px;*/
+		text-align: center;
+		width: 400px;
 	}
 	h2
 	{
-		font-size: 25px;
+		font-size: 15px;
 		color: black;
 		font-family: Poppins;
+		text-align: center;
 		margin: 0px 0px 0px 51px
 	}
 
@@ -276,7 +278,7 @@ ul
 	}
 	body
 	{
-		background-color: white;
+		background-color: green;
 	}
 	p
 	{
