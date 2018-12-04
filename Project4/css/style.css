@@ -233,7 +233,7 @@ ul
 	.title
 	{
 		float: left;
-		width: 100%;
+		width: 400px;
 		height: 200px;
 		font-family: ;
 		margin: 10px 0px 0px -10px;
@@ -243,7 +243,7 @@ ul
 
 	.bodyFrame
 	{
-		width: 100%;
+		width: 400px;
 		height: 500px;
 		margin: 200px 0px 0px 0px;
 		padding-left: 0px;
@@ -290,7 +290,7 @@ ul
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
-		font-size: 35px;
+		font-size: 45px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
@@ -299,7 +299,7 @@ ul
 		height: 50px;
 		width: 100px;
 		/*border: 10px solid white;*/
-		margin: 100px 0px 0px 160px;
+		margin: 50px 0px 0px 10px;
 		
 	}
 	.drum
@@ -309,7 +309,7 @@ ul
 		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
-		font-size: 75px;
+		font-size: 45px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
@@ -318,7 +318,7 @@ ul
 		height: 300px;
 		width: 500px;
 		/*border: 10px solid white;*/
-		margin: 160px 0px 0px 200px;
+		margin: 160px 0px 0px 10px;
 	}
 	.piano
 	{
@@ -327,7 +327,7 @@ ul
 		background-color: DarkSlateBlue;
 		color: white;
 		text-align: center;
-		font-size: 75px;
+		font-size: 45px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
@@ -336,7 +336,7 @@ ul
 		height: 300px;
 		width: 500px;
 		/*border: 10px solid white;*/
-		margin: 160px 0px 0px 160px;
+		margin: 160px 0px 0px 10px;
 	}
 	.mic
 	{
@@ -345,7 +345,7 @@ ul
 		background-color: Gold;
 		color: white;
 		text-align: center;
-		font-size: 75px;
+		font-size: 45px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
@@ -354,7 +354,7 @@ ul
 		height: 300px;
 		width: 500px;
 		/*border: 10px solid white;*/
-		margin: 160px 0px 0px 160px;
+		margin: 160px 0px 0px 10px;
 	}
 	.menu 
 	{
