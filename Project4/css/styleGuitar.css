@@ -304,19 +304,18 @@ ul
 	.title
 	{
 		float: left;
-		width: 712px;
+		width: 400px;
 		height: 765px;
 		font-family: ;
 		margin: -10px 0px 0px -8px;
 		color: black;
 		background-color: white;
-		position: fixed;
 		padding-left: -20px;
 	}	
 
 	.bodyFrame
 	{
-		width: 820px;
+		width: 400px;
 		height: 500px;
 		margin: -10px 0px 0px 535px;
 		padding-left: -60px;
@@ -409,7 +408,7 @@ ul
 	}
 	.worldMusic
 	{
-		width: 506px;
+		width: 360px;
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
@@ -420,7 +419,7 @@ ul
 	}
 	.redDiv
 	{
-		width: 506px;
+		width: 360px;
 		height: 100px;
 		background-color: FireBrick;
 		/*padding-top: 50px;*/
@@ -434,7 +433,7 @@ ul
 	}
 	.guitarGallery
 	{
-		width: 400px;
+		width: 360px;
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
@@ -447,7 +446,7 @@ ul
 	{
 		float: left;
 		height: 100px;
-		width: 100%;
+		width: 360;
 		background-color: FireBrick;
 		position: fixed;
 		margin: -10px 0px 0px -5px;
