@@ -245,7 +245,7 @@ ul
 	{
 		width: 100%;
 		height: 500px;
-		margin: 500px 0px 0px 0px;
+		margin: 200px 0px 0px 0px;
 		padding-left: 0px;
 		padding-left: px;
 		line-height: 1.2;
@@ -290,14 +290,14 @@ ul
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
-		font-size: 75px;
+		font-size: 35px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
 	.guitarIcon
 	{
-		height: 300px;
-		width: 500px;
+		height: 50px;
+		width: 100px;
 		/*border: 10px solid white;*/
 		margin: 100px 0px 0px 160px;
 		
