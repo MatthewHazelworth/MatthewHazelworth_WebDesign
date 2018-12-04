@@ -225,7 +225,7 @@ ul
 	.title
 	{
 		float: left;
-		width: 100%;
+		width: 1500px;
 		height: 765px;
 		font-family: ;
 		margin: -10px 0px 0px -8px;
@@ -237,7 +237,7 @@ ul
 
 	.bodyFrame
 	{
-		width: 100%;
+		width: 1500px;
 		height: 500px;
 		margin: -765px 0px 0px 0px;
 		padding-left: -60px;
