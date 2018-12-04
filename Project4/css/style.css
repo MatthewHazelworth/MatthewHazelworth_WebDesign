@@ -230,7 +230,7 @@ ul
 	.title
 	{
 		float: left;
-		width: 1500px;
+		width: 100%;
 		height: 765px;
 		font-family: ;
 		margin: -10px 0px 0px -8px;
@@ -242,7 +242,7 @@ ul
 
 	.bodyFrame
 	{
-		width: 1500px;
+		width: 100%;
 		height: 500px;
 		margin: 1000px 0px 0px 0px;
 		padding-left: -60px;
@@ -285,7 +285,7 @@ ul
 	.guitar
 	{
 		height: 710px;
-		width: 840px;
+		width: 100%;
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
@@ -304,7 +304,7 @@ ul
 	.drum
 	{
 		height: 710px;
-		width: 840px;
+		width: 100%;
 		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
@@ -322,7 +322,7 @@ ul
 	.piano
 	{
 		height: 710px;
-		width: 840px;
+		width: 100%;
 		background-color: DarkSlateBlue;
 		color: white;
 		text-align: center;
@@ -340,7 +340,7 @@ ul
 	.mic
 	{
 		height: 710px;
-		width: 840px;
+		width: 100%;
 		background-color: Gold;
 		color: white;
 		text-align: center;
