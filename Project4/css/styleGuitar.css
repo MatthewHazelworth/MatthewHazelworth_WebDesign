@@ -84,79 +84,7 @@ p
 	color: black;
 	position: fixed;
 }
-.guitar
-{
-	height: 710px;
-	width: 840px;
-	background-color: FireBrick;
-	color: white;
-	text-align: center;
-	font-size: 75px;
-	font-family: Monoton;
-	padding-top: 50px;
-}
-.guitarIcon
-{
-	height: 300px;
-	width: 500px;
-	/*border: 10px solid white;*/
-	margin: 100px 0px 0px 160px;
-	
-}
-.drum
-{
-	height: 710px;
-	width: 840px;
-	background-color: RoyalBlue;
-	color: white;
-	text-align: center;
-	font-size: 75px;
-	font-family: Monoton;
-	padding-top: 50px;
-}
-.drumIcon
-{
-	height: 300px;
-	width: 500px;
-	/*border: 10px solid white;*/
-	margin: 160px 0px 0px 200px;
-}
-.piano
-{
-	height: 710px;
-	width: 840px;
-	background-color: DarkSlateBlue;
-	color: white;
-	text-align: center;
-	font-size: 75px;
-	font-family: Monoton;
-	padding-top: 50px;
-}
-.pianoIcon
-{
-	height: 300px;
-	width: 500px;
-	/*border: 10px solid white;*/
-	margin: 160px 0px 0px 160px;
-}
-.mic
-{
-	height: 710px;
-	width: 840px;
-	background-color: Gold;
-	color: white;
-	text-align: center;
-	font-size: 75px;
-	font-family: Monoton;
-	padding-top: 50px;
-}
-.micIcon
-{
-	height: 300px;
-	width: 500px;
-	/*border: 10px solid white;*/
-	margin: 160px 0px 0px 160px;
-}
+
 .menu 
 {
 	display: inline-block;
@@ -256,6 +184,7 @@ ul
 	width: 100%;
 	background-color: white;
 	margin: 90px 0px 0px -5px;
+	overflow: auto;
 }
 .imageFrame
 {
