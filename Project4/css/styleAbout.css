@@ -185,3 +185,13 @@ ul
 	font-size: 45px; 
 	color: black;
 }
+.description
+{
+	width: 250px;
+	height: 250px;
+	margin: 300px 0px 0px -340px;
+	font-family: Poppins;
+	font-size: 13px; 
+	color: black;
+
+}
