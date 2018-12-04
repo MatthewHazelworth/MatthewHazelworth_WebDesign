@@ -289,7 +289,7 @@ ul
 		width: 100%;
 		background-color: FireBrick;
 		color: white;
-		text-align: center;
+		text-align: left;
 		font-size: 35px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -308,7 +308,7 @@ ul
 		width: 360px;
 		background-color: RoyalBlue;
 		color: white;
-		text-align: center;
+		text-align: left;
 		font-size: 35px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -326,7 +326,7 @@ ul
 		width: 360px;
 		background-color: DarkSlateBlue;
 		color: white;
-		text-align: center;
+		text-align: left;
 		font-size: 35px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -344,7 +344,7 @@ ul
 		width: 360px;
 		background-color: Gold;
 		color: white;
-		text-align: center;
+		text-align: left;
 		font-size: 35px;
 		font-family: Monoton;
 		padding-top: 50px;
