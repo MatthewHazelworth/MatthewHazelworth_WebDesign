@@ -196,12 +196,17 @@ ul
 }
 	
 @media only screen and (max-width: 1200px)
+{
+
+}
 
 @media only screen and (max-width: 768px)
+{
+
+}
 
 @media only screen and (max-width: 400px)
 {
-	*
 	div
 	{
 		float: left;
@@ -239,7 +244,7 @@ ul
 	{
 		width: 1500px;
 		height: 500px;
-		margin: -765px 0px 0px 0px;
+		margin: 1000px 0px 0px 0px;
 		padding-left: -60px;
 		padding-left: 150px;
 		line-height: 1.2;
@@ -271,7 +276,7 @@ ul
 	}
 	body
 	{
-		background-color: black;
+		background-color: white;
 	}
 	p
 	{
