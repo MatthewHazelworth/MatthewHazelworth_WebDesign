@@ -298,7 +298,7 @@ ul
 	.guitarIcon
 	{
 		height: 50px;
-		width: 50px;
+		width: 25px;
 		/*border: 10px solid white;*/
 		margin: 100px 0px 0px 10px;
 		
@@ -317,7 +317,7 @@ ul
 	.drumIcon
 	{
 		height: 300px;
-		width: 50px;
+		width: 25px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
@@ -335,7 +335,7 @@ ul
 	.pianoIcon
 	{
 		height: 300px;
-		width: 50px;
+		width: 25px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
@@ -353,7 +353,7 @@ ul
 	.micIcon
 	{
 		height: 300px;
-		width: 50px;
+		width: 25px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
