@@ -236,7 +236,7 @@ ul
 		width: 400px;
 		height: 200px;
 		font-family: ;
-		margin: 10px 0px 0px -10px;
+		margin: 10px 0px 0px -5px;
 		color: black;
 		background-color: white;
 	}	
@@ -290,16 +290,16 @@ ul
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
 	.guitarIcon
 	{
 		height: 50px;
-		width: 100px;
+		width: 75px;
 		/*border: 10px solid white;*/
-		margin: 50px 0px 0px 10px;
+		margin: 100px 0px 0px 10px;
 		
 	}
 	.drum
@@ -309,14 +309,14 @@ ul
 		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
 	.drumIcon
 	{
 		height: 300px;
-		width: 500px;
+		width: 75px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
@@ -327,14 +327,14 @@ ul
 		background-color: DarkSlateBlue;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
 	.pianoIcon
 	{
 		height: 300px;
-		width: 500px;
+		width: 75px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
@@ -345,14 +345,14 @@ ul
 		background-color: Gold;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
 	}
 	.micIcon
 	{
 		height: 300px;
-		width: 500px;
+		width: 75px;
 		/*border: 10px solid white;*/
 		margin: 160px 0px 0px 10px;
 	}
