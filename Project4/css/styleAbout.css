@@ -1,3 +1,200 @@
+div
+{
+	float: left;
+}
+h1
+{
+	font-size: 70px;
+	font-family: Poppins;
+	font-weight: bold;
+	margin: 35px 0px 0px 45px;
+	width: 575px;
+}
+h2
+{
+	font-size: 25px;
+	color: black;
+	font-family: Poppins;
+	margin: 0px 0px 0px 51px
+}
+h3
+{
+	font-size: 25px;
+	color: black;
+	text-align: center;
+	font-family: Poppins;
+	margin: 0px 0px 0px 25px
+}
+
+.title
+{
+	float: left;
+	width: 712px;
+	height: 765px;
+	font-family: ;
+	margin: -10px 0px 0px -8px;
+	color: black;
+	background-color: white;
+	position: fixed;
+	padding-left: -20px;
+}	
+
+.bodyFrame
+{
+	width: 820px;
+	height: 500px;
+	margin: -10px 0px 0px 535px;
+	padding-left: -60px;
+	padding-left: 150px;
+	line-height: 1.2;
+	background-color: white;
+}
+.hamburger
+{
+	margin-top: 50px;
+	/*border: 5px solid black;*/
+	height: 25px;
+`		width: 400px;
+}
+.about, .guitars, .drums, .drums, .pianos, .mics
+{
+	float: left;
+	height: 25px;
+	width: 80px;
+	background-color: white;
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+	font-family: Poppins;
+}
+
+.about:hover, .guitars:hover, .drums:hover, .pianos:hover, .mics:hover
+{
+	background-color: DimGray;
+	cursor: pointer;
+}
+body
+{
+	background-color: white;
+}
+p
+{
+	font-family: Poppins;
+	font-size: 13px; 
+	color: black;
+	position: fixed;
+}
+
+.menu 
+{
+	display: inline-block;
+	cursor: pointer;
+	width: 0px;
+	margin-left: 54px;
+}
+
+li
+{
+	display: inline;
+}
+ul
+{
+	display: none;
+}
+
+.bar1, .bar2, .bar3 
+{
+	width: 35px;
+	height: 5px;
+	background-color: black;
+	margin: 3px 0;
+	transition: 0.4s;
+}
+
+.change .bar1 
+{
+	-webkit-transform: rotate(-45deg) translate(-9px, 6px);
+	transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2
+{
+	opacity: 0;
+}
+
+.change .bar3 
+{
+	-webkit-transform: rotate(45deg) translate(-8px, -8px);
+	transform: rotate(45deg) translate(-8px, -8px);
+}
+.container
+{
+	width: 100%;
+	background-color: white;
+}
+.worldMusic
+{
+	width: 506px;
+	height: 100px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	font-family: Poppins;
+	/*padding-top: 50px;*/
+}
+.blackDiv
+{
+	width: 506px;
+	height: 100px;
+	background-color: black;
+	/*padding-top: 50px;*/
+}
+.homeBar
+{
+	margin-top: 25px;
+	margin-left: 50px;
+	height: 25px;
+`		width: 400px;
+}
+.guitarGallery
+{
+	width: 506px;
+	height: 100px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 45px;
+	font-family: Monoton;
+	/*padding-top: 50px;*/
+}
+.blackBanner
+{
+	float: left;
+	height: 100px;
+	width: 100%;
+	background-color: black;
+	position: fixed;
+	margin: -10px 0px 0px -5px;
+}
+.aboutUs
+{
+	margin: 200px 0px 0px 650px;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 45px; 
+	color: black;
+}
+.description
+{
+	width: 250px;
+	height: 250px;
+	margin: 300px 0px 0px -340px;
+	font-family: Poppins;
+	font-size: 13px; 
+	color: black;
+
+}
 @media only screen and (max-width: 400px)
 {	
 	div
@@ -6,7 +203,7 @@
 	}
 	h1
 	{
-		font-size: 70px;
+		font-size: 40px;
 		font-family: Poppins;
 		font-weight: bold;
 		margin: 35px 0px 0px 45px;
@@ -103,32 +300,6 @@
 	{
 		display: none;
 	}
-
-	.bar1, .bar2, .bar3 
-	{
-		width: 35px;
-		height: 5px;
-		background-color: black;
-		margin: 3px 0;
-		transition: 0.4s;
-	}
-
-	.change .bar1 
-	{
-		-webkit-transform: rotate(-45deg) translate(-9px, 6px);
-		transform: rotate(-45deg) translate(-9px, 6px);
-	}
-
-	.change .bar2
-	{
-		opacity: 0;
-	}
-
-	.change .bar3 
-	{
-		-webkit-transform: rotate(45deg) translate(-8px, -8px);
-		transform: rotate(45deg) translate(-8px, -8px);
-	}
 	.container
 	{
 		width: 100%;
@@ -136,7 +307,7 @@
 	}
 	.worldMusic
 	{
-		width: 506px;
+		width: 360px;
 		height: 100px;
 		background-color: black;
 		color: white;
@@ -147,7 +318,7 @@
 	}
 	.blackDiv
 	{
-		width: 506px;
+		width: 360px;
 		height: 100px;
 		background-color: black;
 		/*padding-top: 50px;*/
@@ -161,12 +332,12 @@
 	}
 	.guitarGallery
 	{
-		width: 506px;
+		width: 360px;
 		height: 100px;
 		background-color: black;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 40px;
 		font-family: Monoton;
 		/*padding-top: 50px;*/
 	}
@@ -174,7 +345,7 @@
 	{
 		float: left;
 		height: 100px;
-		width: 100%;
+		width: 360px;
 		background-color: black;
 		position: fixed;
 		margin: -10px 0px 0px -5px;
