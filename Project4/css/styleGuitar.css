@@ -279,11 +279,11 @@ ul
 	}
 	h1
 	{
-		font-size: 70px;
+		font-size: 40px;
 		font-family: Poppins;
 		font-weight: bold;
-		margin: 35px 0px 0px 45px;
-		width: 575px;
+		margin: 35px 0px 0px 5px;
+		width: 400px;
 	}
 	h2
 	{
@@ -335,7 +335,7 @@ ul
 	{
 		float: left;
 		height: 25px;
-		width: 80px;
+		width: 60px;
 		background-color: black;
 		margin: 0 auto;
 		text-align: center;
@@ -430,16 +430,16 @@ ul
 		margin-top: 25px;
 		margin-left: 50px;
 		height: 25px;
-	`		width: 400px;
+	`	width: 360px;
 	}
 	.guitarGallery
 	{
-		width: 506px;
+		width: 400px;
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
-		text-align: center;
-		font-size: 45px;
+		text-align: left;
+		font-size: 40px;
 		font-family: Monoton;
 		/*padding-top: 50px;*/
 	}

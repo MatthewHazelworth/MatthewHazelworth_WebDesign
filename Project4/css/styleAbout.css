@@ -259,7 +259,7 @@ ul
 	{
 		float: left;
 		height: 25px;
-		width: 80px;
+		width: 60px;
 		background-color: white;
 		margin: 0 auto;
 		text-align: center;
@@ -328,7 +328,7 @@ ul
 		margin-top: 25px;
 		margin-left: 50px;
 		height: 25px;
-	`		width: 400px;
+	`	width: 400px;
 	}
 	.guitarGallery
 	{
@@ -352,8 +352,8 @@ ul
 	}
 	.aboutUs
 	{
-		margin: 200px 0px 0px 650px;
-		text-align: center;
+		margin: 200px 0px 0px 0px;
+		text-align: left;
 		font-family: Poppins;
 		font-size: 45px; 
 		color: black;
