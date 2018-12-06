@@ -279,33 +279,39 @@ ul
 	}
 	h1
 	{
-		font-size: 35px;
+		font-size: 40px;
 		font-family: Poppins;
 		font-weight: bold;
-		margin: 0px 0px 0px 0px;
-		text-align: center;
-		width: 400px;
+		margin: 35px 0px 0px 45px;
+		width: 575px;
 	}
 	h2
 	{
-		font-size: 15px;
+		font-size: 25px;
 		color: black;
 		font-family: Poppins;
+		margin: 0px 0px 0px 51px
+	}
+	h3
+	{
+		font-size: 25px;
+		color: black;
 		text-align: center;
-		margin: 0px 0px 0px 0px;
-		width: 400px;
+		font-family: Poppins;
+		margin: 0px 0px 0px 25px
 	}
 
 	.title
 	{
 		float: left;
-		width: 360px;
-		height: 220px;
+		width: 712px;
+		height: 765px;
 		font-family: ;
-		margin: -10px 0px 0px -5px;
+		margin: -10px 0px 0px -8px;
 		color: black;
-		padding-top: 10px;
 		background-color: white;
+		position: fixed;
+		padding-left: -20px;
 	}	
 
 	.bodyFrame
