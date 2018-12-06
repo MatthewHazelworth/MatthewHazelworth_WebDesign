@@ -407,7 +407,7 @@ ul
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
 		font-family: Poppins;
 		/*padding-top: 50px;*/
@@ -432,8 +432,9 @@ ul
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
+		padding-top: 10px;
 		font-family: Monoton;
 		/*padding-top: 50px;*/
 	}
