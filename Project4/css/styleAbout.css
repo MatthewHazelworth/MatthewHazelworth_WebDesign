@@ -352,14 +352,24 @@ ul
 		position: fixed;
 		margin: -10px 0px 0px -5px;
 	}
-
+	.instrument
+	{
+		float: left;
+		width: 300px;
+		height: 300px;
+		margin: 50px 0px 0px 10px;
+		background: url("https://userscontent2.emaze.com/images/314317c9-7bdf-4989-b6d8-d7a4db9bc9f0/47cce9e080d3caf1a4b9c26881884b8b.jpg");
+		background-size: 100%;
+		background-repeat: no-repeat;
+	}
 	.description
 	{
-		width: 250px;
-		height: 250px;
-		margin: 500px 0px 0px -340px;
+		float: left;
+		width: 300px;
+		height: 100px;
+		margin: 555px 0px 0px -600px;
 		font-family: Poppins;
-		font-size: 13px; 
+		font-size: 16px; 
 		color: black;
 
 	}
