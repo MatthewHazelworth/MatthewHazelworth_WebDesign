@@ -90,9 +90,20 @@ p
 	display: inline-block;
 	cursor: pointer;
 	width: 0px;
-	margin-left: 54px;
+	margin-left: 24px;
+	margin-top: 20px;
 }
-
+.dropBar
+{
+	margin-top: 25px;
+	margin-left: 50px;
+	height: 25px;
+`	width: 400px;
+}
+.closed
+{
+	display: none;
+}
 li
 {
 	display: inline;
@@ -150,19 +161,13 @@ ul
 	background-color: FireBrick;
 	/*padding-top: 50px;*/
 }
-.homeBar
-{
-	margin-top: 25px;
-	margin-left: 50px;
-	height: 25px;
-`		width: 400px;
-}
+
 .guitarGallery
 {
 	width: 100vw;
     height: 100px;
     background-color: white;
-    margin-top: 0px;
+    margin-top: 100px;
     margin-left: 0px;
     color: black;
     text-align: center;
@@ -192,7 +197,7 @@ ul
 	float: left;
 	width: 500px;
 	height: 500px;
-	margin: 68px 0px 0px 35px;
+	margin: 0px 0px 0px 35px;
 	/*background-color: white;*/
 	background: url("");
 	background-size: 100%;
@@ -200,10 +205,10 @@ ul
 }
 .arrow
 {
-	float: absolute;
+	float: left;
 	width: 100px;
 	height: 100px;
-	margin: 300px 0px 0px 61px;
+	margin: -1300px 0px 0px 700px;
 	cursor: pointer;
 	/*border: 2px solid black;*/
 	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kjP45mQGaoOdy_QpaEsMjZFxkZbY82_cyxIS9hd-geiVHeBr");
@@ -230,6 +235,7 @@ ul
 {	
 	float: absolute;
 	padding: 5px 0px 0px 25px;
+	margin-left: 920px;
 	width: 350px;
 	font-family: Poppins;
 	font-size: 13px; 
@@ -248,6 +254,7 @@ ul
 {	
 	float: absolute;
 	padding: 5px 0px 0px 25px;
+	margin-left: 920px;
 	width: 350px;
 	font-family: Poppins;
 	font-size: 13px; 
@@ -266,6 +273,7 @@ ul
 {	
 	float: absolute;
 	padding: 5px 0px 0px 25px;
+	margin-left: 920px;
 	width: 350px;
 	font-family: Poppins;
 	font-size: 13px; 

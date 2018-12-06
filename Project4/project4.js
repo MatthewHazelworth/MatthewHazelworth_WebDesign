@@ -23,7 +23,11 @@ function project4()
         $('.hamburger').toggleClass('closed');	        
     });
 	
-    $('.numbers').hover(function() {
-        $(".numbers").toggleClass('blackText');
+    $('.menu').click(function() {
+        $(".homeBar").toggleClass('closed');
+	});
+	
+	$('.menu').click(function() {
+        $(".dropBar").toggleClass('closed');
 	});
 }
