@@ -20,10 +20,10 @@ $(document).ready(function() {
 function project4() 
 {
     $('.menu').click(function() {
-        $('.menu').toggleClass('hamburger');	        
-    })
+        $('.hamburger').toggleClass('closed');	        
+    });
 	
     $('.numbers').hover(function() {
         $(".numbers").toggleClass('blackText');
-  
+	});
 }

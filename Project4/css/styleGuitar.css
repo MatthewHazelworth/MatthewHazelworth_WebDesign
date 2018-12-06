@@ -159,14 +159,15 @@ ul
 }
 .guitarGallery
 {
-	width: 506px;
-	height: 100px;
-	background-color: FireBrick;
-	color: white;
-	text-align: center;
-	font-size: 45px;
-	font-family: Monoton;
-	/*padding-top: 50px;*/
+	width: 100vw;
+    height: 100px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 0px;
+    color: black;
+    text-align: center;
+    font-size: 45px;
+    font-family: Monoton;
 }
 .redBanner
 {
@@ -436,11 +437,11 @@ ul
 	{
 		width: 360px;
 		height: 100px;
+		padding-top: -20px;
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
 		font-size: 40px;
-		padding-top: 10px;
 		font-family: Monoton;
 		/*padding-top: 50px;*/
 	}

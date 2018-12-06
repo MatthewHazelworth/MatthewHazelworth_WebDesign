@@ -8,7 +8,7 @@ h1
 	font-size: 70px;
 	font-family: Poppins;
 	font-weight: bold;
-	margin: 35px 0px 0px 45px;
+	margin: 55px 0px 0px 45px;
 	width: 575px;
 }
 h2
@@ -42,13 +42,27 @@ h2
 	line-height: 1.2;
 	background-color: white;
 }
+.menu 
+{
+	display: inline-block;
+	cursor: pointer;
+	width: 0px;
+	margin-top: 25px;
+	margin-left: 54px;
+}
 .hamburger
 {
-	margin-top: 50px;
+	margin-top: 100px;
 	/*border: 5px solid black;*/
 	height: 25px;
-`		width: 400px;
+`	width: 400px;
+	transition: 0.4s;
 }
+.closed
+{
+	display: none;
+	transition: 0.4s;
+}	
 .about, .guitars, .drums, .drums, .pianos, .mics
 {
 	float: left;
@@ -146,13 +160,6 @@ p
 	width: 500px;
 	/*border: 10px solid white;*/
 	margin: 160px 0px 0px 160px;
-}
-.menu 
-{
-	display: inline-block;
-	cursor: pointer;
-	width: 0px;
-	margin-left: 54px;
 }
 
 li
