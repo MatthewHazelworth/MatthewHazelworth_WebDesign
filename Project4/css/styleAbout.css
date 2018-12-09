@@ -199,7 +199,7 @@ ul
 	color: black;
 
 }
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 700px)
 {
 	div
 	{
@@ -251,13 +251,6 @@ ul
 		line-height: 1.2;
 		background-color: white;
 	}
-	.hamburger
-	{
-		margin-top: 50px;
-		/*border: 5px solid black;*/
-		height: 25px;
-	`		width: 400px;
-	}
 	.about, .guitars, .drums, .drums, .pianos, .mics
 	{
 		float: left;
@@ -293,7 +286,7 @@ ul
 		width: 25px;
 		height: 25px;
 		margin-left: 54px;
-		margin-top: -110px;
+		margin-top: -90px;
 	}
 
 	li
@@ -321,7 +314,7 @@ ul
 	}
 	.homeBar
 	{
-		margin-top: 55px;
+		margin-top: 0px;
 		margin-left: 25px;
 		height: 25px;
 	`	width: 400px;
@@ -366,15 +359,15 @@ ul
 	{
 		float: left;
 		height: 100px;
-		width: 360;
+		width: 600px;
 		background-color: black;
 		margin: 0px 0px 0px -10px;
 	}
 	.instrument
 	{
 		float: left;
-		width: 360px;
-		height: 360px;
+		width: 100vw;
+		height: 600px;
 		margin: 10px 0px 0px -10px;
 		background: url("https://userscontent2.emaze.com/images/314317c9-7bdf-4989-b6d8-d7a4db9bc9f0/47cce9e080d3caf1a4b9c26881884b8b.jpg");
 		background-size: 100%;
@@ -383,11 +376,11 @@ ul
 	.description
 	{
 		float: left;
-		width: 340px;
+		width: 500px;
 		height: 100px;
 		margin: -20px 0px 0px 10px;
 		font-family: Poppins;
-		font-size: 17px; 
+		font-size: 20px; 
 		color: black;
 
 	}
@@ -553,7 +546,7 @@ ul
 	{
 		float: left;
 		height: 100px;
-		width: 360;
+		width: 360px;
 		background-color: black;
 		margin: 0px 0px 0px -10px;
 	}
