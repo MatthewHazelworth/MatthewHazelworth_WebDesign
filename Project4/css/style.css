@@ -210,7 +210,7 @@ ul
 	}
 	h1
 	{
-		font-size: 35px;
+		font-size: 55px;
 		font-family: Poppins;
 		font-weight: bold;
 		margin: 50px 0px 0px 0px;
@@ -219,7 +219,7 @@ ul
 	}
 	h2
 	{
-		font-size: 15px;
+		font-size: 25px;
 		color: black;
 		font-family: Poppins;
 		text-align: center;
@@ -230,8 +230,8 @@ ul
 	.title
 	{
 		float: left;
-		width: 360px;
-		height: 220px;
+		width: 100vw;
+		height: 250px;
 		font-family: ;
 		margin: -10px 0px 0px -5px;
 		color: black;
@@ -284,7 +284,7 @@ ul
 	.guitar
 	{
 		height: 710px;
-		width: 360px;
+		width: 100vw;
 		background-color: FireBrick;
 		color: white;
 		text-align: left;
@@ -303,7 +303,7 @@ ul
 	.drum
 	{
 		height: 710px;
-		width: 360px;
+		width: 100vw;
 		background-color: RoyalBlue;
 		color: white;
 		text-align: left;
@@ -321,7 +321,7 @@ ul
 	.piano
 	{
 		height: 710px;
-		width: 360px;
+		width: 100vw;
 		background-color: DarkSlateBlue;
 		color: white;
 		text-align: left;
@@ -339,7 +339,7 @@ ul
 	.mic
 	{
 		height: 710px;
-		width: 360px;
+		width: 100vw;
 		background-color: Gold;
 		color: white;
 		text-align: left;
