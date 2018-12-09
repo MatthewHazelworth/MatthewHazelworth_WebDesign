@@ -19,15 +19,18 @@ $(document).ready(function() {
 
 function project4() 
 {
-    $('.menu').click(function() {
+    $('.menu').click(function() 
+	{
         $('.hamburger').toggleClass('closed');	        
     });
 	
-    $('.menu').click(function() {
-        $(".homeBar").toggleClass('closed');
+    $('.menu').click(function() 
+	{
+        $('.homeBar').toggleClass('closed');
 	});
 	
-	$('.menu').click(function() {
-        $(".dropBar").toggleClass('closed');
+	$('.menu').click(function()
+	{
+        $('.dropBar').toggleClass('closed');
 	});
 }
