@@ -293,7 +293,7 @@ ul
 		width: 25px;
 		height: 25px;
 		margin-left: 54px;
-		margin-top: -100px;
+		margin-top: -500px;
 	}
 
 	li
@@ -370,14 +370,14 @@ ul
 		height: 100px;
 		width: 360px;
 		background-color: black;
-		margin: 0px 0px 0px -5px;
+		margin: 0px 0px 0px -10px;
 	}
 	.instrument
 	{
 		float: left;
 		width: 360px;
 		height: 360px;
-		margin: 50px 0px 0px -5px;
+		margin: 200px 0px 0px -5px;
 		background: url("https://userscontent2.emaze.com/images/314317c9-7bdf-4989-b6d8-d7a4db9bc9f0/47cce9e080d3caf1a4b9c26881884b8b.jpg");
 		background-size: 100%;
 		background-repeat: no-repeat;
@@ -387,7 +387,7 @@ ul
 		float: left;
 		width: 300px;
 		height: 100px;
-		margin: 10px 0px 0px 0px;
+		margin: -10px 0px 0px 0px;
 		font-family: Poppins;
 		font-size: 16px; 
 		color: black;
