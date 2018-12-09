@@ -277,13 +277,13 @@ ul
 }
 @media only screen and (max-width: 400px)
 {	
-	div
+		div
 	{
 		float: left;
 	}
 	h1
 	{
-		font-size: 40px;
+		font-size: 70px;
 		font-family: Poppins;
 		font-weight: bold;
 		margin: 35px 0px 0px 45px;
@@ -314,12 +314,13 @@ ul
 		margin: -10px 0px 0px -8px;
 		color: black;
 		background-color: white;
+		position: fixed;
 		padding-left: -20px;
 	}	
 
 	.bodyFrame
 	{
-		width: 400px;
+		width: 820px;
 		height: 500px;
 		margin: -10px 0px 0px 535px;
 		padding-left: -60px;
@@ -327,18 +328,12 @@ ul
 		line-height: 1.2;
 		background-color: white;
 	}
-	.hamburger
-	{
-		margin-top: 50px;
-		/*border: 5px solid black;*/
-		height: 25px;
-	`		width: 400px;
-	}
+
 	.about, .guitars, .drums, .drums, .pianos, .mics
 	{
 		float: left;
 		height: 25px;
-		width: 60px;
+		width: 80px;
 		background-color: black;
 		margin: 0 auto;
 		text-align: center;
@@ -367,10 +362,22 @@ ul
 	{
 		display: inline-block;
 		cursor: pointer;
-		width: 0px;
-		margin-left: 54px;
+		width: 50px;
+		height: 50px;
+		margin-left: 350px;
+		margin-top: 20px;
 	}
-
+	.dropBar
+	{
+		margin-top: -50px;
+		margin-left: -75px;
+		height: 25px;
+	`	width: 400px;
+	}
+	.closed
+	{
+		display: none;
+	}
 	li
 	{
 		display: inline;
@@ -412,47 +419,42 @@ ul
 	}
 	.worldMusic
 	{
-		width: 360px;
+		width: 506px;
 		height: 100px;
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
-		font-size: 40px;
+		font-size: 45px;
 		font-family: Poppins;
 		/*padding-top: 50px;*/
 	}
 	.redDiv
-	{/*
-		width: 360px;
+	{
+		width: 506px;
 		height: 100px;
 		background-color: FireBrick;
-		padding-top: 50px;*/
+		/*padding-top: 50px;*/
 	}
-	.homeBar
-	{
-		margin-top: 25px;
-		margin-left: 50px;
-		height: 25px;
-	`	width: 360px;
-	}
+
 	.guitarGallery
 	{
-		width: 360px;
+		width: 100vw;
 		height: 100px;
-		padding-top: 0px;
-		background-color: FireBrick;
-		color: white;
+		background-color: white;
+		margin-top: 100px;
+		margin-left: 0px;
+		color: FireBrick;
 		text-align: center;
-		font-size: 40px;
+		font-size: 45px;
 		font-family: Monoton;
-		/*padding-top: 50px;*/
 	}
 	.redBanner
 	{
 		float: left;
 		height: 100px;
-		width: 360;
+		width: 100%;
 		background-color: FireBrick;
+		position: fixed;
 		margin: -10px 0px 0px -5px;
 	}
 	.mainFrame
@@ -469,7 +471,7 @@ ul
 		float: left;
 		width: 500px;
 		height: 500px;
-		margin: 68px 0px 0px 35px;
+		margin: 0px 0px 0px 35px;
 		/*background-color: white;*/
 		background: url("");
 		background-size: 100%;
@@ -477,10 +479,10 @@ ul
 	}
 	.arrow
 	{
-		float: absolute;
+		float: left;
 		width: 100px;
 		height: 100px;
-		margin: 300px 0px 0px 61px;
+		margin: -1300px 0px 0px 700px;
 		cursor: pointer;
 		/*border: 2px solid black;*/
 		background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kjP45mQGaoOdy_QpaEsMjZFxkZbY82_cyxIS9hd-geiVHeBr");
@@ -507,6 +509,7 @@ ul
 	{	
 		float: absolute;
 		padding: 5px 0px 0px 25px;
+		margin-left: 920px;
 		width: 350px;
 		font-family: Poppins;
 		font-size: 13px; 
@@ -525,6 +528,7 @@ ul
 	{	
 		float: absolute;
 		padding: 5px 0px 0px 25px;
+		margin-left: 920px;
 		width: 350px;
 		font-family: Poppins;
 		font-size: 13px; 
@@ -543,6 +547,7 @@ ul
 	{	
 		float: absolute;
 		padding: 5px 0px 0px 25px;
+		margin-left: 920px;
 		width: 350px;
 		font-family: Poppins;
 		font-size: 13px; 
