@@ -548,9 +548,9 @@ ul
 	}
 	.aboutUs
 	{
-		width: 360px;
+		width: 100vw;
 		height: 100px;
-		margin-top: 100px;
+		margin-top: 300px;
 		background-color: white;
 		color: black;
 		margin: 100px;
@@ -562,7 +562,7 @@ ul
 	{
 		float: left;
 		height: 100px;
-		width: 360px;
+		width: 100vw;
 		background-color: black;
 		margin: 0px 0px 0px -10px;
 	}
