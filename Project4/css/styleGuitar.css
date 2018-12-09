@@ -314,7 +314,6 @@ ul
 		margin: -10px 0px 0px -8px;
 		color: black;
 		background-color: white;
-		position: fixed;
 		padding-left: -20px;
 	}	
 
@@ -423,11 +422,11 @@ ul
 		/*padding-top: 50px;*/
 	}
 	.redDiv
-	{
+	{/*
 		width: 360px;
 		height: 100px;
 		background-color: FireBrick;
-		/*padding-top: 50px;*/
+		padding-top: 50px;*/
 	}
 	.homeBar
 	{
@@ -440,7 +439,7 @@ ul
 	{
 		width: 360px;
 		height: 100px;
-		padding-top: -20px;
+		padding-top: 0px;
 		background-color: FireBrick;
 		color: white;
 		text-align: center;
@@ -454,7 +453,6 @@ ul
 		height: 100px;
 		width: 360;
 		background-color: FireBrick;
-		position: fixed;
 		margin: -10px 0px 0px -5px;
 	}
 	.mainFrame
