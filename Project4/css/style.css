@@ -215,7 +215,7 @@ ul
 		font-weight: bold;
 		margin: 50px 0px 0px 0px;
 		text-align: center;
-		width: 400px;
+		width: 100vw;
 	}
 	h2
 	{
@@ -224,15 +224,15 @@ ul
 		font-family: Poppins;
 		text-align: center;
 		margin: 0px 0px 0px 0px;
-		width: 400px;
+		width: 100vw;
 	}
 
 	.title
 	{
-		float: left;
+		float: center;
 		width: 100vw;
-		height: 250px;
-		font-family: ;
+		height: 450px;
+		font-family: Poppins;
 		margin: -10px 0px 0px -5px;
 		color: black;
 		padding-top: 10px;
@@ -287,7 +287,7 @@ ul
 		width: 100vw;
 		background-color: FireBrick;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -306,7 +306,7 @@ ul
 		width: 100vw;
 		background-color: RoyalBlue;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -324,7 +324,7 @@ ul
 		width: 100vw;
 		background-color: DarkSlateBlue;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
@@ -342,7 +342,7 @@ ul
 		width: 100vw;
 		background-color: Gold;
 		color: white;
-		text-align: left;
+		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
 		padding-top: 50px;
