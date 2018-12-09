@@ -293,7 +293,7 @@ ul
 		width: 25px;
 		height: 25px;
 		margin-left: 54px;
-		margin-top: -50px;
+		margin-top: -100px;
 	}
 
 	li
@@ -318,13 +318,6 @@ ul
 		text-align: center;
 		font-size: 45px;
 		font-family: Poppins;
-		/*padding-top: 50px;*/
-	}
-	.blackDiv
-	{
-		width: 360px;
-		height: 100px;
-		background-color: black;
 		/*padding-top: 50px;*/
 	}
 	.homeBar
@@ -384,7 +377,7 @@ ul
 		float: left;
 		width: 360px;
 		height: 360px;
-		margin: 10px 0px 0px 0px;
+		margin: 50px 0px 0px -5px;
 		background: url("https://userscontent2.emaze.com/images/314317c9-7bdf-4989-b6d8-d7a4db9bc9f0/47cce9e080d3caf1a4b9c26881884b8b.jpg");
 		background-size: 100%;
 		background-repeat: no-repeat;
@@ -394,7 +387,7 @@ ul
 		float: left;
 		width: 300px;
 		height: 100px;
-		margin: 200px 0px 0px 0px;
+		margin: 10px 0px 0px 0px;
 		font-family: Poppins;
 		font-size: 16px; 
 		color: black;
