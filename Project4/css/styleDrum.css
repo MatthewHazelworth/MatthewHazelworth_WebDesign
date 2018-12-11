@@ -142,7 +142,7 @@ ul
 {
 	width: 506px;
 	height: 100px;
-	background-color: FireBrick;
+	background-color: RoyalBlue;
 	color: white;
 	text-align: center;
 	font-size: 45px;
@@ -153,18 +153,18 @@ ul
 {
 	width: 506px;
 	height: 100px;
-	background-color: FireBrick;
+	background-color: RoyalBlue;
 	/*padding-top: 50px;*/
 }
 
-.guitarGallery
+.drumGallery
 {
 	width: 100vw;
     height: ;
     background-color: ;
     margin-top: 100px;
     margin-left: 0px;
-    color: FireBrick;
+    color: RoyalBlue;
     text-align: center;
     font-size: 45px;
     font-family: Monoton;
@@ -174,7 +174,7 @@ ul
 	float: left;
 	height: 100px;
 	width: 100%;
-	background-color: FireBrick;
+	background-color: RoyalBlue;
 	position: fixed;
 	margin: -10px 0px 0px -5px;
 }
@@ -241,7 +241,7 @@ ul
 }
 .slick-next
 {
-	background-color: FireBrick;
+	background-color: RoyalBlue;
 	border: 2px solid black;
 	font-family: Poppins;
 	width: 75px;
@@ -250,7 +250,7 @@ ul
 }
 .slick-prev
 {
-	background-color: FireBrick;
+	background-color: RoyalBlue;
 	border: 2px solid black;
 	font-family: Poppins;
 	width: 75px;
@@ -406,7 +406,7 @@ ul
 	{
 		width: 506px;
 		height: 100px;
-		background-color: FireBrick;
+		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
 		font-size: 45px;
@@ -417,18 +417,18 @@ ul
 	{
 		width: 506px;
 		height: 100px;
-		background-color: FireBrick;
+		background-color: RoyalBlue;
 		/*padding-top: 50px;*/
 	}
 
-	.guitarGallery
+	.drumGallery
 	{
 		width: 100vw;
 		height: 100px;
 		background-color: white;
 		margin-top: 100px;
 		margin-left: 0px;
-		color: FireBrick;
+		color: RoyalBlue;
 		text-align: center;
 		font-size: 45px;
 		font-family: Monoton;
@@ -438,7 +438,7 @@ ul
 		float: left;
 		height: 100px;
 		width: 100%;
-		background-color: FireBrick;
+		background-color: RoyalBlue;
 		position: fixed;
 		margin: -10px 0px 0px -5px;
 	}
