@@ -279,7 +279,7 @@ ul
 	{
 		float: left;
 		height: 25px;
-		width: 40px;
+		width: 60px;
 		background-color: black;
 		margin: 0 auto;
 		text-align: center;
@@ -318,7 +318,7 @@ ul
 		margin-top: -30px;
 		margin-left: -75px;
 		height: 25px;
-	`	width: 200px;
+	`	width: 300px;
 	}
 	.closed
 	{
@@ -379,7 +379,7 @@ ul
 		background-color: Gold;
 	}
 
-	.micGallery
+	.drumGallery
 	{
 		width: 100vw;
 		height: ;
