@@ -482,7 +482,7 @@ ul
 	{
 		float: left;
 		height: 25px;
-		width: 40px;
+		width: 60px;
 		background-color: black;
 		margin: 0 auto;
 		text-align: center;
@@ -518,10 +518,10 @@ ul
 	}
 	.dropBar
 	{
-		margin-top: -30px;
-		margin-left: -75px;
+		margin-top: -50px;
+		margin-left: -55px;
 		height: 25px;
-	`	width: 200px;
+	`	width: 300px;
 	}
 	.closed
 	{
