@@ -437,12 +437,12 @@ ul
 	}
 	.image img
 	{
-		width: 100%;
+		width: 100vw;
 		height: 100%;
 	}
 	.text
 	{
-		width: 50%;
+		width: 90%;
 		height: 500px;
 		float: left;
 		margin-left: 20px;
@@ -452,7 +452,7 @@ ul
 		
 		position: absolute;
 		top: 100px;
-		width: 90%;
+		width: 100%;
 	}
 	.slick-next
 	{
