@@ -260,26 +260,12 @@ ul
 {
 	width: 50vw;
 }
+
 @media only screen and (max-width: 400px)
 {	
-		div
+		.container div
 	{
 		float: left;
-	}
-	h1
-	{
-		font-size: 70px;
-		font-family: Poppins;
-		font-weight: bold;
-		margin: 35px 0px 0px 45px;
-		width: 575px;
-	}
-	h2
-	{
-		font-size: 25px;
-		color: black;
-		font-family: Poppins;
-		margin: 0px 0px 0px 51px
 	}
 	h3
 	{
@@ -290,35 +276,11 @@ ul
 		margin: 0px 0px 0px 25px
 	}
 
-	.title
-	{
-		float: left;
-		width: 712px;
-		height: 765px;
-		font-family: ;
-		margin: -10px 0px 0px -8px;
-		color: black;
-		background-color: white;
-		position: fixed;
-		padding-left: -20px;
-	}	
-
-	.bodyFrame
-	{
-		width: 820px;
-		height: 500px;
-		margin: -10px 0px 0px 535px;
-		padding-left: -60px;
-		padding-left: 150px;
-		line-height: 1.2;
-		background-color: white;
-	}
-
 	.about, .guitars, .drums, .drums, .pianos, .mics
 	{
 		float: left;
 		height: 25px;
-		width: 80px;
+		width: 60px;
 		background-color: black;
 		margin: 0 auto;
 		text-align: center;
@@ -340,7 +302,6 @@ ul
 		font-family: Poppins;
 		font-size: 13px; 
 		color: black;
-		position: fixed;
 	}
 
 	.menu 
@@ -349,15 +310,16 @@ ul
 		cursor: pointer;
 		width: 50px;
 		height: 50px;
-		margin-left: 350px;
-		margin-top: 20px;
+		margin-left: 300px;
+		margin-top: -40px;
+		position: relative;
 	}
 	.dropBar
 	{
-		margin-top: -50px;
-		margin-left: -75px;
+		margin-top: -60px;
+		margin-left: 111px;
 		height: 25px;
-	`	width: 400px;
+	`	width: 300px;
 	}
 	.closed
 	{
@@ -400,35 +362,32 @@ ul
 	.container
 	{
 		width: 100%;
-		background-color: white;
 	}
 	.worldMusic
 	{
-		width: 506px;
-		height: 100px;
-		background-color: FireBrick;
+		width: 100%;
+		height: 25px;
+		background-color: RoyalBlue;
 		color: white;
 		text-align: center;
-		font-size: 45px;
+		font-size: 35px;
 		font-family: Poppins;
-		/*padding-top: 50px;*/
 	}
 	.redDiv
 	{
-		width: 506px;
-		height: 100px;
-		background-color: FireBrick;
-		/*padding-top: 50px;*/
+		width: 100%;
+		margin-top: 25px;
+		background-color: RoyalBlue;
 	}
 
 	.guitarGallery
 	{
 		width: 100vw;
-		height: 100px;
-		background-color: white;
-		margin-top: 100px;
+		height: ;
+		background-color: ;
+		margin-top: 130px;
 		margin-left: 0px;
-		color: FireBrick;
+		color: RoyalBlue;
 		text-align: center;
 		font-size: 45px;
 		font-family: Monoton;
@@ -438,105 +397,58 @@ ul
 		float: left;
 		height: 100px;
 		width: 100%;
-		background-color: FireBrick;
-		position: fixed;
-		margin: -10px 0px 0px -5px;
+		background-color: RoyalBlue;
+		margin: 0px 0px 0px 0px;
 	}
-	.mainFrame
+	.text
 	{
+		font-family: Poppins;
+	}
+
+	.image
+	{
+		width: 75%;
+		height: 500px;
 		float: left;
-		height: 100%;
+	}
+	.image img
+	{
 		width: 100%;
-		background-color: white;
-		margin: 90px 0px 0px -5px;
-		overflow: auto;
+		height: 100%;
 	}
-	.imageFrame
+	.text
 	{
-		float: left;
-		width: 500px;
+		width: 95%;
 		height: 500px;
-		margin: 0px 0px 0px 35px;
-		/*background-color: white;*/
-		background: url("");
-		background-size: 100%;
-		background-repeat: no-repeat;
-	}
-	.arrow
-	{
 		float: left;
-		width: 100px;
-		height: 100px;
-		margin: -1300px 0px 0px 700px;
+		margin-left: 20px;
+	}
+	.mySlider
+	{
+		
+		position: absolute;
+		top: 140px;
+		width: 90%;
+	}
+	.slick-next
+	{
+		background-color: RoyalBlue;
+		border: 2px solid black;
+		font-family: Poppins;
+		width: 75px;
 		cursor: pointer;
-		/*border: 2px solid black;*/
-		background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-kjP45mQGaoOdy_QpaEsMjZFxkZbY82_cyxIS9hd-geiVHeBr");
-		background-size: 100%;
-		background-repeat: no-repeat;
+
 	}
-	.textBox
+	.slick-prev
 	{
-		float: left;
-		width: 400px;
-		height: 500px;
-		margin: 68px 0px 0px 400px;
-		/*border: 2px solid black;*/
-	}
-	.squier
-	{
-		width: 300px;
-		height: 100px;/*
-		background: url("http://www.mixdownmag.com.au/sites/default/files/images/Squier%20Bullet%20Strat%20HSS.jpg");
-		background-size: 100%;
-		background-repeat: no-repeat;*/
-	}
-	.fender
-	{	
-		float: absolute;
-		padding: 5px 0px 0px 25px;
-		margin-left: 920px;
-		width: 350px;
+		background-color: RoyalBlue;
+		border: 2px solid black;
 		font-family: Poppins;
-		font-size: 13px; 
-		color: black;
-		/*padding-left: -20px;*/
+		width: 75px;
+		cursor: pointer;
 	}
-	.gibson
+	.mySlide
 	{
-		width: 300px;
-		height: 100px;
-		background: url("http://www.mixdownmag.com.au/sites/default/files/styles/flexslider_h400/public/images/HSGSEBCH1_glam.jpg?itok=nw0WAzg6");
-		background-size: 100%;
-		background-repeat: no-repeat;
-	}
-	.redDevil
-	{	
-		float: absolute;
-		padding: 5px 0px 0px 25px;
-		margin-left: 920px;
-		width: 350px;
-		font-family: Poppins;
-		font-size: 13px; 
-		color: black;
-		/*padding-left: -20px;*/
-	}
-	.ibanez
-	{
-		width: 300px;
-		height: 100px;
-		background: url("https://www.dawsons.co.uk/media/catalog/product/cache/1/image/1200x/6b9ffbf72458f4fd2d3cb995d92e8889/s/1/s1070pbz_clb_1p_01.jpg");
-		background-size: 100%;
-		background-repeat: no-repeat;
-	}
-	.premium
-	{	
-		float: absolute;
-		padding: 5px 0px 0px 25px;
-		margin-left: 920px;
-		width: 350px;
-		font-family: Poppins;
-		font-size: 13px; 
-		color: black;
-		/*padding-left: -20px;*/
+		width: 50vw;
 	}
 }
