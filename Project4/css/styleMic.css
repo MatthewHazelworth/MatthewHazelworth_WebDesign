@@ -26,30 +26,6 @@ h3
 	margin: 0px 0px 0px 25px
 }
 
-.title
-{
-	float: left;
-	width: 712px;
-	height: 765px;
-	font-family: ;
-	margin: -10px 0px 0px -8px;
-	color: black;
-	background-color: white;
-	position: fixed;
-	padding-left: -20px;
-}	
-
-.bodyFrame
-{
-	width: 820px;
-	height: 500px;
-	margin: -10px 0px 0px 535px;
-	padding-left: -60px;
-	padding-left: 150px;
-	line-height: 1.2;
-	background-color: white;
-}
-
 .about, .guitars, .drums, .drums, .pianos, .mics
 {
 	float: left;
