@@ -52,7 +52,7 @@ p
 	font-family: Poppins;
 	font-size: 13px; 
 	color: black;
-	position: fixed;
+	
 }
 
 .menu 
@@ -151,7 +151,7 @@ ul
 	height: 100px;
 	width: 100%;
 	background-color: DarkSlateBlue;
-	position: fixed;
+	
 	margin: -10px 0px 0px -5px;
 }
 
@@ -330,7 +330,7 @@ ul
 		width: 100vw;
 		height: ;
 		background-color: ;
-		margin-top: 130px;
+		margin-top: 140px;
 		margin-left: 0px;
 		color: DarkSlateBlue;
 		text-align: center;
