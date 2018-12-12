@@ -248,7 +248,7 @@ ul
 		font-family: Poppins;
 		font-weight: bold;
 		margin: 35px 0px 0px 45px;
-		width: 575px;
+		width: 100vw;
 	}
 	h2
 	{
@@ -301,7 +301,7 @@ ul
 		width: 50px;
 		height: 50px;
 		margin-left: 300px;
-		margin-top: -20px;
+		margin-top: -80px;
 	}
 	.dropBar
 	{
@@ -452,7 +452,7 @@ ul
 		
 		position: absolute;
 		top: 100px;
-		width: 50%;
+		width: 90%;
 	}
 	.slick-next
 	{
