@@ -353,7 +353,7 @@ ul
 		font-family: Poppins;
 		/*padding-top: 50px;*/
 	}
-	.redDiv
+	.purpleDiv
 	{
 		width: 100%;
 		height: 100px;
@@ -373,7 +373,7 @@ ul
 		font-size: 45px;
 		font-family: Monoton;
 	}
-	.redBanner
+	.purpleBanner
 	{
 		float: left;
 		height: 100px;
