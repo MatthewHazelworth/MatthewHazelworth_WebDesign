@@ -399,10 +399,6 @@ ul
 		background-color: RoyalBlue;
 		margin: 0px 0px 0px 0px;
 	}
-	.text
-	{
-		font-family: Poppins;
-	}
 
 	.image
 	{
@@ -421,6 +417,7 @@ ul
 		height: 550px;
 		float: left;
 		margin-left: 20px;
+		font-family: Poppins;
 	}
 	.mySlider
 	{

@@ -400,11 +400,6 @@ ul
 		background-color: FireBrick;
 		margin: 0px 0px 0px 0px;
 	}
-	.text
-	{
-		font-family: Poppins;
-	}
-
 	.image
 	{
 		width: 75%;
@@ -419,9 +414,10 @@ ul
 	.text
 	{
 		width: 95%;
-		height: 500px;
+		height: 550px;
 		float: left;
 		margin-left: 20px;
+		font-family: Poppins;
 	}
 	.mySlider
 	{
