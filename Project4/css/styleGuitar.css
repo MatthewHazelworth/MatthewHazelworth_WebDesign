@@ -261,6 +261,194 @@ ul
 	width: 50vw;
 }
 
+@media only screen and (max-width: 800px)
+{	
+		.container div
+	{
+		float: left;
+	}
+	h3
+	{
+		font-size: 25px;
+		color: black;
+		text-align: center;
+		font-family: Poppins;
+		margin: 0px 0px 0px 25px
+	}
+
+	.about, .guitars, .drums, .drums, .pianos, .mics
+	{
+		float: left;
+		height: 25px;
+		width: 60px;
+		background-color: black;
+		margin: 0 auto;
+		text-align: center;
+		color: white;
+		font-family: Poppins;
+	}
+
+	.about:hover, .guitars:hover, .drums:hover, .pianos:hover, .mics:hover
+	{
+		background-color: DimGray;
+		cursor: pointer;
+	}
+	body
+	{
+		background-color: white;
+	}
+	p
+	{
+		font-family: Poppins;
+		font-size: 13px; 
+		color: black;
+	}
+
+	.menu 
+	{
+		display: inline-block;
+		cursor: pointer;
+		width: 50px;
+		height: 50px;
+		margin-left: 300px;
+		margin-top: -40px;
+		position: relative;
+	}
+	.dropBar
+	{
+		margin-top: -60px;
+		margin-left: 111px;
+		height: 25px;
+	`	width: 300px;
+	}
+	.closed
+	{
+		display: none;
+	}
+	li
+	{
+		display: inline;
+	}
+	ul
+	{
+		display: none;
+	}
+
+	.bar1, .bar2, .bar3 
+	{
+		width: 35px;
+		height: 5px;
+		background-color: black;
+		margin: 3px 0;
+		transition: 0.4s;
+	}
+
+	.change .bar1 
+	{
+		-webkit-transform: rotate(-45deg) translate(-9px, 6px);
+		transform: rotate(-45deg) translate(-9px, 6px);
+	}
+
+	.change .bar2
+	{
+		opacity: 0;
+	}
+
+	.change .bar3 
+	{
+		-webkit-transform: rotate(45deg) translate(-8px, -8px);
+		transform: rotate(45deg) translate(-8px, -8px);
+	}
+	.container
+	{
+		width: 100%;
+	}
+	.worldMusic
+	{
+		width: 100%;
+		height: 25px;
+		background-color: FireBrick;
+		color: white;
+		text-align: center;
+		font-size: 35px;
+		font-family: Poppins;
+	}
+	.redDiv
+	{
+		width: 100%;
+		margin-top: 25px;
+		background-color: FireBrick;
+	}
+
+	.guitarGallery
+	{
+		width: 100vw;
+		height: ;
+		background-color: ;
+		margin-top: 135px;
+		margin-left: 0px;
+		color: FireBrick;
+		text-align: center;
+		font-size: 45px;
+		font-family: Monoton;
+	}
+	.redBanner
+	{
+		float: left;
+		height: 100px;
+		width: 100%;
+		background-color: FireBrick;
+		margin: 0px 0px 0px 0px;
+	}
+	.image
+	{
+		width: 75%;
+		height: 500px;
+		float: left;
+	}
+	.image img
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.text
+	{
+		width: 95%;
+		height: 700px;
+		float: left;
+		margin-left: 20px;
+		font-family: Poppins;
+	}
+	.mySlider
+	{
+		
+		position: absolute;
+		top: 140px;
+		width: 90%;
+	}
+	.slick-next
+	{
+		background-color: FireBrick;
+		border: 2px solid black;
+		font-family: Poppins;
+		width: 75px;
+		cursor: pointer;
+
+	}
+	.slick-prev
+	{
+		background-color: FireBrick;
+		border: 2px solid black;
+		font-family: Poppins;
+		width: 75px;
+		cursor: pointer;
+	}
+	.mySlide
+	{
+		width: 50vw;
+	}
+}
+
 @media only screen and (max-width: 400px)
 {	
 		.container div

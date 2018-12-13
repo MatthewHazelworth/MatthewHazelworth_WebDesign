@@ -199,7 +199,7 @@ ul
 	color: black;
 
 }
-@media only screen and (max-width: 700px)
+@media only screen and (max-width: 800px)
 {
 	div
 	{
@@ -232,7 +232,7 @@ ul
 	.title
 	{
 		float: left;
-		width: 712px;
+		width: 100vw;
 		height: 765px;
 		font-family: ;
 		margin: -10px 0px 0px -8px;
@@ -243,7 +243,7 @@ ul
 
 	.bodyFrame
 	{
-		width: 820px;
+		width: 100vw;
 		height: 500px;
 		margin: -10px 0px 0px 535px;
 		padding-left: -60px;
@@ -290,7 +290,7 @@ ul
 	}
 	.blackDiv
 	{
-	width: 506px;
+	width: 100%;
 	height: 100px;
 	background-color: black;
 	/*padding-top: 50px;*/
@@ -401,7 +401,7 @@ ul
 	}
 }
 
-@media only screen and (max-width: 500px)
+@media only screen and (max-width: 400px)
 {	
 	div
 	{
