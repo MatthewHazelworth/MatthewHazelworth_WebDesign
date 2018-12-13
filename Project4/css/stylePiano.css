@@ -167,11 +167,9 @@ ul
 }
 .text
 {
-	width: 95%;
-	height: 550px;
+	width: 50%;
+	height: 500px;
 	float: left;
-	margin-left: 20px;
-	font-family: Poppins;
 }
 .mySlider
 {
@@ -360,9 +358,10 @@ ul
 	.text
 	{
 		width: 95%;
-		height: 500px;
+		height: 550px;
 		float: left;
 		margin-left: 20px;
+		font-family: Poppins;
 	}
 	.mySlider
 	{
