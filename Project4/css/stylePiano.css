@@ -358,7 +358,7 @@ ul
 	.text
 	{
 		width: 95%;
-		height: 700px;
+		height: 750px;
 		float: left;
 		margin-left: 20px;
 		font-family: Poppins;
@@ -367,7 +367,7 @@ ul
 	{
 		
 		position: absolute;
-		top: 140px;
+		top: 150px;
 		width: 90%;
 	}
 	.slick-next
