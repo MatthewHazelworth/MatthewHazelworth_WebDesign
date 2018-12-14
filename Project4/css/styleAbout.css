@@ -199,7 +199,7 @@ ul
 	color: black;
 
 }
-@media only screen and (max-width: 800px)
+@media only screen and (max-width: 1000px)
 {
 	div
 	{
@@ -319,7 +319,7 @@ ul
 	}
 	.worldMusic
 	{
-		width: 360px;
+		width: 100%;
 		height: 100px;
 		background-color: black;
 		color: white;
@@ -383,7 +383,7 @@ ul
 		float: left;
 		width: 100vw;
 		height: 600px;
-		margin: 10px 0px 0px -10px;
+		margin: 10px 0px 0px 0px;
 		background: url("https://userscontent2.emaze.com/images/314317c9-7bdf-4989-b6d8-d7a4db9bc9f0/47cce9e080d3caf1a4b9c26881884b8b.jpg");
 		background-size: 100%;
 		background-repeat: no-repeat;
@@ -393,7 +393,7 @@ ul
 		float: left;
 		width: 500px;
 		height: 100px;
-		margin: -20px 0px 0px 10px;
+		margin: 0px 0px 0px 0px;
 		font-family: Poppins;
 		font-size: 20px; 
 		color: black;
