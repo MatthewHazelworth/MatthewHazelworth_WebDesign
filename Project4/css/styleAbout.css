@@ -232,10 +232,10 @@ ul
 	.title
 	{
 		float: left;
-		width: 100vw;
+		width: 90%;
 		height: 765px;
 		font-family: ;
-		margin: -10px 0px 0px -8px;
+		margin: -10px 0px 0px 15px;
 		color: black;
 		background-color: white;
 		padding-left: -20px;
