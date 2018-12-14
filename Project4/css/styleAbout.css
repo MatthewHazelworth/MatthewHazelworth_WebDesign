@@ -401,7 +401,7 @@ ul
 	}
 }
 
-@media only screen and (max-width: 400px)
+@media only screen and (max-width: 500px)
 {	
 	div
 	{
@@ -556,6 +556,7 @@ ul
 		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
+		margin-left: 20px;
 	}
 	.blackBanner
 	{
