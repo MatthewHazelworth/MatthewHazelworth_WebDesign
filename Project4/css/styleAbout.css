@@ -301,8 +301,7 @@ ul
 	height: 100px;
 	width: 100%;
 	background-color: black;
-	
-	margin: -10px 0px 0px -5px;
+	margin: 0px 0px 0px 0px;
 	}
 	li
 	{
@@ -369,14 +368,6 @@ ul
 		text-align: center;
 		font-size: 40px;
 		font-family: Monoton;
-	}
-	.blackBanner
-	{
-		float: left;
-		height: 100px;
-		width: 600px;
-		background-color: black;
-		margin: 0px 0px 0px -10px;
 	}
 	.instrument
 	{
